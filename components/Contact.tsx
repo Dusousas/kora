@@ -172,8 +172,8 @@ export default function Contact() {
 
         <article className="flex justify-end maxW">
           <div className="flex justify-center gap-20 bg-VerdeP text-white py-2 px-8 rounded-2xl w-[600px] mt-8">
-            <p>{t("footer.email")}</p>
-            <p>{t("footer.phone")}</p>
+            <p>{t("contact.email")}</p>
+            <p>{t("contact.phone")}</p>
           </div>
         </article>
       </section>
