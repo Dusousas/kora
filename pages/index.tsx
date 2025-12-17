@@ -5,6 +5,7 @@ import PackDogs from "@/components/PackDogs";
 import PackCats from "@/components/PackCats";
 import Satisfaction from "@/components/Satisfaction";
 import Contact from "@/components/Contact";
+import ToBuy from "@/components/ToBuy";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <CtaAbout />
       <Satisfaction />
       <Contact />
+      <ToBuy />
 
     </>
   );

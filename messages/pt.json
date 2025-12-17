@@ -94,7 +94,16 @@
       "phone": "(19) 99944-8710"
     }
   },
-    "footer": {
-    "rights": "Ingredientes Selecionados para seu cão"
+  "tobuy": {
+    "title": "Onde comprar",
+    "buttonbuy": "Saiba mais",
+    "description": "Quer saber como adquirir os produtos <brand>KORA</brand>? Entre em contato com o nosso time de vendas para encontrar o alimento ideal para o seu pet. Estamos prontos para ajudar!",
+    "description1": "Acesse nossa página de contato e fale conosco."
+  },
+  "footer": {
+    "titlecontact": "Atendimento ao consumidor:",
+    "emailcontact": "sac@noupetcare.com",
+    "titlesocial": "Siga-nos interaja e participe da comunidade",
+    "rights": "© 2025 <brand>KORA NATURAL</brand>. Uma marca NOU Pet Care."
   }
 }

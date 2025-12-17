@@ -40,6 +40,12 @@ html {
   background-position: center;
 }
 
+.bgBuy{
+  background-image: url('/bgs/bgbuy.png');
+  background-size: cover;
+  background-position: center;
+}
+
 h1,h2{
   font-family: "Red Rose", serif;
 }
