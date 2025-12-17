@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #FFFDF0;
+  --color-VerdeP: #096131;
+  --color-Laranja: #E68902;
+  --color-Azul: #005587;
+
+}
+
+body,
+html {
+  font-family: "Figtree", sans-serif;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.maxW {
+  max-width: 1620px;
+  margin: 0 auto;
+  padding: 0 2%;
+}
+
+.bgMain{
+  background-image: url('/bgs/mainbg.png');
+  background-size: cover;
+  background-position: center;
+  height: calc(100vh - 91px);
+}
+
+.bgAbout{
+  background-image: url('/bgs/aboutbg.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.bgContact{
+  background-image: url('/bgs/bgcontact.png');
+  background-size: cover;
+  background-position: center;
+}
+
+h1,h2{
+  font-family: "Red Rose", serif;
+}
+
+.phoneWrap .PhoneInput {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+}
+
+/* Seletor do país (bandeira + DDI) */
+.phoneWrap .PhoneInputCountry {
+  background: #ebdfcb;
+  border-radius: 10px;
+  padding: 8px 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Ícone/bandeira */
+.phoneWrap .PhoneInputCountryIcon {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+/* Select invisível (mas clicável) */
+.phoneWrap .PhoneInputCountrySelect {
+  cursor: pointer;
+}
+
+/* Input do número */
+.phoneWrap .PhoneInputInput {
+  width: 100%;
+  background: #ebdfcb;
+  border-radius: 10px;
+  padding: 8px 10px;
+  color: #0b6b52; /* ajuste se quiser */
+  outline: none;
+  border: none;
+}
+
+/* Opcional: placeholder */
+.phoneWrap .PhoneInputInput::placeholder {
+  opacity: 0.7;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Red+Rose:wght@300..700&display=swap');
+

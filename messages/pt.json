@@ -1,0 +1,100 @@
+{
+  "navbar": {
+    "home": "Início",
+    "guide": "Guia Pet",
+    "products": "Produtos",
+    "kora": "A Kora",
+    "programa": "Programa de Satisfação",
+    "contact": "Contato"
+  },
+  "main": {
+    "title": "Ingredientes Selecionados para seu cão",
+    "description": "Nutrição de verdade para uma vida longa e saudável",
+    "buttonmain": "Conheça a linha completa"
+  },
+
+  "main": {
+    "title": "Ingredientes Selecionados para seu cão",
+    "description": "Nutrição de verdade para uma vida longa e saudável",
+    "buttonmain": "Conheça a linha completa"
+  },
+  "ctablog": {
+    "title": "Tudo sobre cuidado e bem-estar para o seu pet.",
+    "buttonblog": "Acesse nosso blog"
+  },
+  "packdogs": {
+    "title": "Alimento completo",
+    "title1": "para cada fase do seu cão",
+    "description": "​A linha KORA Natural para Cães foi desenvolvida a partir de ingredientes selecionados. A combinação de proteínas, frutas e vegetais oferece nutrientes essenciais para proporcionar uma vida mais saudável e feliz para seu companheiro fiel.",
+    "buttondog": "Conheça"
+  },
+  "packcats": {
+    "title": "Sabor irresistível",
+    "title1": "que agrada até os gatos mais exigentes",
+    "description": "A linha KORA Natural para Gatos colabora para que cada refeição seja uma experiência de amor e alegria. A inclusão de ingredientes naturais auxilia na saúde e bem-estar de seu felino. A combinação de proteínas, frutas e vegetais oferece nutrientes essenciais para uma nutrição de verdade.",
+    "buttoncat": "Conheça"
+  },
+  "ctaabout": {
+    "title": "Sobre nós",
+    "description": "Kora vem de coração. Da essência.",
+    "description1": "Do que é verdadeiramente importante.",
+    "buttonabout": "Leia mais"
+  },
+  "satisfaction": {
+    "title": "Programa de Satisfação",
+    "subtitle": "Satisfação de 11% ou seu dinheiro de volta",
+    "description": "Nossos filhos de quatro patas significam uma grande responsabilidade, amor e desafio. Sabemos que eles possuem seus próprios gostos e acertar o paladar deles é um desafio. Não se esqueça de oferecer sempre a nutrição correta considerando o porte, fase de vida e em alguns casos suas necessidades especificas.É através de uma alimentação completa que você ajuda a oferecer ao seu bichinho, melhor qualidade de vida. Siga as recomendações do seu médico veterinário, ofereça sempre água fresca, passeios, carinho e muito amor. Se seu pet não se adaptar ao nosso alimento, não se preocupe – temos a campanha Satisfação 110% - podemos trocar por outra variedade ou oferecer o reembolso do valor pago + 10%. Para isso, entre em contato com nosso SAC e tenha em mãos:",
+    "items": [
+      "Nota fiscal da loja parceira onde adquiriu o produto",
+      "Seus dados pessoais",
+      "Conserve no mínimo 75% do produto na embalagem original seguindo as orientações contidas na própria embalagem",
+      "Produto dentro do prazo de validade impresso na embalagem"
+    ],
+    "sacmail": "sac@noupetcare.com",
+    "sacphone": "(19) 99944-8710",
+    "important": "Importante: para o ressarcimento, o produto deve estar na embalagem original, com 75% do volume.",
+    "buttonsatsfaction": "Consulte o regulamento"
+  },
+
+  "contact": {
+    "title": "Fale conosco",
+    "fullName": {
+      "label": "Nome completo *",
+      "placeholder": "Nome completo"
+    },
+    "email": {
+      "label": "Email *",
+      "placeholder": "Email"
+    },
+    "phone": {
+      "label": "Whatsapp",
+      "placeholder": "(11) 99999-9999"
+    },
+    "about": {
+      "label": "Sobre você *",
+      "placeholder": "Selecione uma opção",
+      "options": [
+        "Pai ou mãe de Pet",
+        "Veterinário",
+        "Lojista",
+        "Criador",
+        "Fornecedor",
+        "Adestrador",
+        "ONG",
+        "Outro"
+      ]
+    },
+    "message": {
+      "label": "Mensagem *",
+      "placeholder": "Escreva sua mensagem..."
+    },
+    "button": "Enviar",
+    "footer": {
+      "email": "sac@noupetcare.com",
+      "phone": "(19) 99944-8710"
+    }
+  },
+    "footer": {
+    "rights": "Ingredientes Selecionados para seu cão"
+  }
+}
