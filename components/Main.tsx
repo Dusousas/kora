@@ -9,18 +9,18 @@ export default function Main() {
   return (
     <>
       <section className="bgMain">
-        <div className="maxW flex flex-col justify-center h-full">
-          <article className="flex flex-col gap-4 lg:w-[30%]">
-            <h2 className="text-Laranja text-6xl font-medium uppercase">
+        <div className="maxW flex flex-col h-full lg:justify-center">
+          <article className="flex flex-col pt-20 gap-4 w-[70%] lg:w-[30%]">
+            <h2 className="text-Laranja font-medium uppercase text-2xl lg:text-6xl">
               {t("title")}
             </h2>
-            <p className="text-white text-center mt-2 text-[25px] lg:text-left">
+            <p className="text-white text-[16px] lg:mt-2 lg:text-[25px] text-left">
               {t("description")}
             </p>
 
             <div className="flex">
               <a
-                className="bg-white px-6 py-2 rounded-2xl text-lg text-Laranja font-medium mt-2"
+                className="bg-white rounded-2xl text-Laranja p-2 font-medium lg:mt-2 lg:px-6 lg:py-2 lg:text-lg"
                 href=""
               >
                 {t("buttonmain")}

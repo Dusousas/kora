@@ -24,7 +24,7 @@ html {
 .bgMain{
   background-image: url('/bgs/mainbg.png');
   background-size: cover;
-  background-position: center;
+  background-position: 40% center;
   height: calc(100vh - 91px);
 }
 
