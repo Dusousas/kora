@@ -170,7 +170,7 @@ export default function Contact() {
           </form>
         </div>
 
-        <article className="flex justify-end maxW">
+        <article className="flex justify-center lg:justify-end maxW">
           <div className="flex justify-center  bg-VerdeP text-white py-2 px-8 rounded-2xl mt-8 lg:w-[600px] lg:gap-20">
             <p>{t("contact.email")}</p>
             <p>{t("contact.phone")}</p>
