@@ -76,7 +76,7 @@ export default function Navbar() {
       <div className="lg:hidden">
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="text-3xl  focus:outline-none relative z-50"
+          className="text-3xl text-VerdeP  focus:outline-none relative z-50"
         >
           {isOpen ? <FiX /> : <FiMenu />}
         </button>
