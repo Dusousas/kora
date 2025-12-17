@@ -7,14 +7,14 @@ export default function PackCats() {
   return (
     <>
       <section className="bg-Azul py-10">
-        <div className="maxW flex items-center justify-center gap-20">
+        <div className="maxW flex flex-col items-center justify-center gap-20">
           <article className="lg:w-1/2">
-            <h1 className="text-white font-medium uppercase text-4xl">
+            <h1 className="text-white font-medium uppercase text-4xl text-center lg:text-left">
               {t("title")} <br />
               <span className="text-white"> {t("title1")}</span>
             </h1>
-            <p className="text-white mt-4 text-lg">{t("description")}</p>
-            <div className="flex mt-4">
+            <p className="text-white mt-4 text-lg text-center lg:text-left">{t("description")}</p>
+            <div className="flex mt-4 justify-center lg:justify-start">
               <a
                 className="bg-white px-12 py-2 rounded-2xl text-lg text-Azul font-medium mt-2"
                 href=""

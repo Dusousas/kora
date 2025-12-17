@@ -8,11 +8,11 @@ export default function ToBuy() {
     <>
       <section className="bgBuy py-20">
         <div className="maxW">
-          <h2 className="text-VerdeP font-medium uppercase text-4xl">
+          <h2 className="text-VerdeP font-medium uppercase text-4xl text-center lg:text-left">
             {t("title")}
           </h2>
 
-          <p className="text-Azul mt-4 text-lg max-w-[400px]">
+          <p className="text-Azul mt-4 text-lg max-w-[400px] text-center lg:text-left">
             {t.rich("description", {
               brand: (chunks) => (
                 <span className="uppercase font-semibold">{chunks}</span>
@@ -20,11 +20,11 @@ export default function ToBuy() {
             })}
           </p>
 
-          <p className="text-Azul mt-2 text-lg font-semibold max-w-[400px]">
+          <p className="text-Azul mt-2 text-lg font-semibold max-w-[400px] text-center lg:text-left">
             {t("description1")}
           </p>
 
-          <div className="flex">
+          <div className="flex justify-center lg:justify-start">
             <a
               className="bg-VerdeP px-6 py-2 rounded-2xl text-lg text-white font-medium mt-4"
               href=""
