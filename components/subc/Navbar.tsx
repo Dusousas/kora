@@ -29,7 +29,7 @@ export default function Navbar() {
   const navItems: NavItem[] = [
     { id: "home", label: t("home"), type: "section" },
     { id: "guide", label: t("guide"), type: "section" },
-    { id: "products", label: t("products"), type: "section" },
+    { id: "products", label: t("products"), type: "page", pagePath: "/produtos" },
 
     // ✅ aqui vira página:
     { id: "kora", label: t("kora"), type: "page", pagePath: "/kora" },
