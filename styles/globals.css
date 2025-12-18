@@ -34,6 +34,12 @@ html {
   background-position: center;
 }
 
+.bgProducts{
+  background-image: url('/bgs/bgprodutos.png');
+  background-size: cover;
+  background-position: center;
+}
+
 .bgContact{
   background-image: url('/bgs/bgcontact.png');
   background-size: cover;

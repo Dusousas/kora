@@ -129,7 +129,50 @@
     "descpack1": "Nossas embalagens são 100% recicláveis e refletem nosso compromisso com o meio ambiente. Embora não tenhamos zíperes sofisticados ou lacres especiais, optamos por materiais reaproveitáveis, que podem ser encaminhados para a coleta seletiva.",
     "descpack2": "Além disso, utilizamos cores de forma inteligente para reduzir o impacto ambiental e,em parceria com o selo EU RECICLO, compensamos cada embalagem produzida com apoio a cooperativas de reciclagem. Ao escolher KORA NATURAL, você também apoia uma comunidade dedicada a cuidar do nosso planeta.",
     "descpack3": "Junte - se a nós nessa missão!"
-
-  
+  },
+  "products": {
+    "title": "Kora vem de coração. Da essência. Do que é verdadeiramente importante",
+    "items": [
+      {
+        "image": "/produtos/produto5.png",
+        "name1": "Cães Adultos",
+        "name2": "Porte Médio e Grande",
+        "desc": "Frango com Ervilha e Mirtilo",
+        "kg": "2,5kg e 15kg"
+      },
+      {
+        "image": "/produtos/produto1.png",
+        "name1": "Cães Filhotes",
+        "name2": "Porte Médio e Grande",
+        "desc": "Frango com Cenoura e Maça",
+        "kg": "2,5kg e 15kg"
+      },
+      {
+        "image": "/produtos/produto6.png",
+        "name1": "CãesAdultos",
+        "name2": "Porte Pequeno",
+        "desc": "Frango com Batata Doce e Maça",
+        "kg": "2,5kg e 15kg"
+      },
+      {
+        "image": "/produtos/produto4.png",
+        "name1": "Cães Filhotes",
+        "name2": "Porte Pequeno",
+        "desc": "Frango com Cenoura e Mirtilo",
+        "kg": "2,5kg e 15kg"
+      },
+      {
+        "image": "/produtos/produto3.png",
+        "name1": "Gatos Adultos Castrados",
+        "desc": "Frango com Cenoura e e Maça",
+        "kg": "1,5kg e 7,5kg"
+      },
+          {
+        "image": "/produtos/produto2.png",
+        "name1": "Gatos Adultos",
+        "desc": "Frango com Batat Doce e Mirtilo",
+        "kg": "1,5kg e 7,5kg"
+      }
+    ]
   }
 }
