@@ -10,8 +10,8 @@ export default function Main() {
     <>
       <section className="bgMain">
         <div className="maxW flex flex-col h-full lg:justify-center">
-          <article className="flex flex-col pt-20 gap-4 w-[70%] lg:w-[30%]">
-            <h2 className="text-Laranja font-medium uppercase text-2xl lg:text-6xl">
+          <article className="flex flex-col pt-30 gap-4 w-[65%] lg:pt-0 lg:w-[30%]">
+            <h2 className="text-Laranja font-medium uppercase text-3xl lg:text-6xl">
               {t("title")}
             </h2>
             <p className="text-white text-[16px] lg:mt-2 lg:text-[25px] text-left">

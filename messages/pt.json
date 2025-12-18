@@ -105,5 +105,31 @@
     "emailcontact": "sac@noupetcare.com",
     "titlesocial": "Siga-nos interaja e participe da comunidade",
     "rights": "© 2025 <brand>KORA NATURAL</brand>. Uma marca NOU Pet Care."
+  },
+  "kora": {
+    "title": "Kora vem de coração da essência. Do que é verdadeiramente importante.",
+    "descriptionStart": "Em Kora Natural você encontra nutrição de verdade, ingredientes selecionados e a promessa de uma vida mais saudável e feliz para seu companheiro fiel. Com nossos pets celebramos aventuras, o contato com a natureza, cada brincadeira e muitos lambeijos. Cada porção é um convite para uma grande jornada, seja aventura ao ar livre ou uma brincadeira na sala.",
+    "highlight": "Na KORA NATURAL você encontra o compromisso inabalável com a excelência.",
+    "descriptionEnd": "Desde a seleção dos melhores ingredientes até nossa escolha por embalagens 100% recicláveis, estamos dedicados a elevar o padrão de nutrição — com transparência, qualidade e profundo respeito pela natureza. Queremos deixar uma pegada positiva por onde passamos.",
+    "titlemissao": "Nossa missão",
+    "descmissao": "Proporcionar nutrição natural com ingredientes selecionados, para garantir mais qualidade de vida e equilíbrio para cães e gatos, por meio de uma fabricação responsável e cuidado com o meio-ambiente.",
+    "titlesocial": "Compromisso Social",
+    "descsocial": "Ao escolher Kora Natural, você se junta a nós em uma jornada de responsabilidade e amor. Parte de cada venda é destinada a iniciativas que apoiam o bem-estar animal e projetos sociais. A cada porção você tem uma oportunidade de espalhar amor e fazer a diferença.",
+    "titlevalores": "Valores",
+    "valores": [
+      "Autenticidade",
+      "Aventura",
+      "Cuidado",
+      "Comprometimento",
+      "Liberdade",
+      "Respeito pela natureza",
+      "Qualidade"
+    ],
+    "titlepack": "Nossas embalagens são sustentáveis",
+    "descpack1": "Nossas embalagens são 100% recicláveis e refletem nosso compromisso com o meio ambiente. Embora não tenhamos zíperes sofisticados ou lacres especiais, optamos por materiais reaproveitáveis, que podem ser encaminhados para a coleta seletiva.",
+    "descpack2": "Além disso, utilizamos cores de forma inteligente para reduzir o impacto ambiental e,em parceria com o selo EU RECICLO, compensamos cada embalagem produzida com apoio a cooperativas de reciclagem. Ao escolher KORA NATURAL, você também apoia uma comunidade dedicada a cuidar do nosso planeta.",
+    "descpack3": "Junte - se a nós nessa missão!"
+
+  
   }
 }
