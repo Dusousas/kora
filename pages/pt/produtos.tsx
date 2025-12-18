@@ -1,8 +1,10 @@
 import React from "react";
 import { useTranslations } from "next-intl";
 import { getMessages } from "../../lib/getMessages";
+import Link from "next/link";
 
 type ProductItem = {
+  slug: string;
   image: string;
   name1: string;
   name2?: string;
@@ -30,7 +32,10 @@ export default function Produtos() {
         <div className="maxW">
           <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-2 justify-center">
             {items.map((p, idx) => (
-              <div key={idx} className="flex flex-col text-center items-center ">
+              <div
+                key={idx}
+                className="flex flex-col text-center items-center "
+              >
                 <img
                   className="w-[280px] sm:w-[320px] lg:w-[360px]"
                   src={p.image}
@@ -49,8 +54,13 @@ export default function Produtos() {
                   <p className="font-medium text-black text-sm">{p.kg}</p>
                 ) : null}
 
-                <div className="flex mt-2">
-                    <a className="bg-VerdeP text-white px-6 py-2 rounded-2xl" href="">Saiba mais</a>
+                <div className="flex mt-4">
+                  <Link
+                    href={`/pt/produtos/${p.slug}`}
+                    className="bg-VerdeP text-white px-6 py-2 rounded-2xl"
+                  >
+                    Saiba mais
+                  </Link>
                 </div>
               </div>
             ))}

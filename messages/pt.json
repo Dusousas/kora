@@ -132,47 +132,54 @@
   },
   "products": {
     "title": "Kora vem de coração. Da essência. Do que é verdadeiramente importante",
-    "items": [
-      {
-        "image": "/produtos/produto5.png",
-        "name1": "Cães Adultos",
-        "name2": "Porte Médio e Grande",
-        "desc": "Frango com Ervilha e Mirtilo",
-        "kg": "2,5kg e 15kg"
-      },
-      {
-        "image": "/produtos/produto1.png",
-        "name1": "Cães Filhotes",
-        "name2": "Porte Médio e Grande",
-        "desc": "Frango com Cenoura e Maça",
-        "kg": "2,5kg e 15kg"
-      },
-      {
-        "image": "/produtos/produto6.png",
-        "name1": "CãesAdultos",
-        "name2": "Porte Pequeno",
-        "desc": "Frango com Batata Doce e Maça",
-        "kg": "2,5kg e 15kg"
-      },
-      {
-        "image": "/produtos/produto4.png",
-        "name1": "Cães Filhotes",
-        "name2": "Porte Pequeno",
-        "desc": "Frango com Cenoura e Mirtilo",
-        "kg": "2,5kg e 15kg"
-      },
-      {
-        "image": "/produtos/produto3.png",
-        "name1": "Gatos Adultos Castrados",
-        "desc": "Frango com Cenoura e e Maça",
-        "kg": "1,5kg e 7,5kg"
-      },
-          {
-        "image": "/produtos/produto2.png",
-        "name1": "Gatos Adultos",
-        "desc": "Frango com Batat Doce e Mirtilo",
-        "kg": "1,5kg e 7,5kg"
-      }
-    ]
+"items": [
+  {
+    "slug": "caes-adultos",
+    "image": "/produtos/produto5.png",
+    "name1": "Cães Adultos",
+    "name2": "Porte Médio e Grande",
+    "desc": "Frango com Ervilha e Mirtilo",
+    "kg": "2,5kg e 15kg"
+  },
+  {
+    "slug": "caes-filhotes",
+    "image": "/produtos/produto1.png",
+    "name1": "Cães Filhotes",
+    "name2": "Porte Médio e Grande",
+    "desc": "Frango com Cenoura e Maça",
+    "kg": "2,5kg e 15kg"
+  },
+  {
+    "slug": "caes-adultos-porte-pequeno",
+    "image": "/produtos/produto6.png",
+    "name1": "CãesAdultos",
+    "name2": "Porte Pequeno",
+    "desc": "Frango com Batata Doce e Maça",
+    "kg": "2,5kg e 15kg"
+  },
+  {
+    "slug": "caes-filhotes-porte-pequeno",
+    "image": "/produtos/produto4.png",
+    "name1": "Cães Filhotes",
+    "name2": "Porte Pequeno",
+    "desc": "Frango com Cenoura e Mirtilo",
+    "kg": "2,5kg e 15kg"
+  },
+  {
+    "slug": "gatos-adultos-castrados",
+    "image": "/produtos/produto3.png",
+    "name1": "Gatos Adultos Castrados",
+    "desc": "Frango com Cenoura e e Maça",
+    "kg": "1,5kg e 7,5kg"
+  },
+  {
+    "slug": "gatos-adultos",
+    "image": "/produtos/produto2.png",
+    "name1": "Gatos Adultos",
+    "desc": "Frango com Batat Doce e Mirtilo",
+    "kg": "1,5kg e 7,5kg"
+  }
+]
+
   }
 }
