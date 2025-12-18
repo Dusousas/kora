@@ -8,9 +8,13 @@ export default function kora() {
   return (
     <>
       <section className="bg-[#FFFDF0] p-4 lg:p-10">
-        <video className="w-full object-cover lg:h-[700px] ">
-          <source src="/a-kora.mp4" />
-        </video>
+<video
+  className="w-full h-[260px] sm:h-[360px] lg:h-[700px] object-cover"
+  src="/a-kora.mp4"
+  playsInline
+  controls
+  preload="metadata"
+/>
 
         <div className="maxW bg-[#FFFDF0]">
           <article className="pt-10 flex flex-col lg:flex-row lg:gap-20">
