@@ -1,8 +1,24 @@
 import React from "react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
+import { useRouter } from "next/router";
+
+// helpers (os mesmos que você já usou)
+function getLocaleFromPath(asPath: string): "pt" | "en" | "es" {
+  const first = asPath.split("?")[0].split("#")[0].split("/")[1];
+  if (first === "en" || first === "es" || first === "pt") return first;
+  return "pt";
+}
+
+function withLocale(locale: string, path: string) {
+  const p = path.startsWith("/") ? path : `/${path}`;
+  return `/${locale}${p}`;
+}
 
 export default function PackDogs() {
   const t = useTranslations("packdogs");
+  const router = useRouter();
+  const locale = getLocaleFromPath(router.asPath);
 
   return (
     <>
@@ -17,14 +33,18 @@ export default function PackDogs() {
               {t("title")} <br />
               <span className="text-white"> {t("title1")}</span>
             </h1>
-            <p className="text-white mt-4 text-lg text-center lg:text-left">{t("description")}</p>
+
+            <p className="text-white mt-4 text-lg text-center lg:text-left">
+              {t("description")}
+            </p>
+
             <div className="flex mt-4 justify-center lg:justify-start">
-              <a
-                className="bg-white px-12 py-2 rounded-2xl text-lg text-VerdeP font-medium mt-2"
-                href=""
+              <Link
+                href={withLocale(locale, "/produtos")}
+                className="bg-white px-12 py-2 rounded-2xl text-lg text-VerdeP font-medium mt-2 transition hover:opacity-90"
               >
                 {t("buttondog")}
-              </a>
+              </Link>
             </div>
           </article>
         </div>

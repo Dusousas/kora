@@ -2,9 +2,25 @@
 
 import React from "react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
+import { useRouter } from "next/router";
+
+// helpers (mesmo padrão já usado em outros componentes)
+function getLocaleFromPath(asPath: string): "pt" | "en" | "es" {
+  const first = asPath.split("?")[0].split("#")[0].split("/")[1];
+  if (first === "en" || first === "es" || first === "pt") return first;
+  return "pt";
+}
+
+function withLocale(locale: string, path: string) {
+  const p = path.startsWith("/") ? path : `/${path}`;
+  return `/${locale}${p}`;
+}
 
 export default function Main() {
   const t = useTranslations("main");
+  const router = useRouter();
+  const locale = getLocaleFromPath(router.asPath);
 
   return (
     <>
@@ -19,12 +35,12 @@ export default function Main() {
             </p>
 
             <div className="flex">
-              <a
-                className="bg-white rounded-2xl text-Laranja p-2 font-medium lg:mt-2 lg:px-6 lg:py-2 lg:text-lg"
-                href=""
+              <Link
+                href={withLocale(locale, "/produtos")}
+                className="bg-white rounded-2xl text-Laranja p-2 font-medium lg:mt-2 lg:px-6 lg:py-2 lg:text-lg transition hover:opacity-90"
               >
                 {t("buttonmain")}
-              </a>
+              </Link>
             </div>
           </article>
         </div>

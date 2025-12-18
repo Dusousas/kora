@@ -21,38 +21,46 @@ html {
   padding: 0 2%;
 }
 
-.bgMain{
+.bgMain {
   background-image: url('/bgs/mainbg.png');
   background-size: cover;
   background-position: 40% center;
   height: calc(100vh - 91px);
 }
 
-.bgAbout{
+.bgAbout {
   background-image: url('/bgs/aboutbg.png');
   background-size: cover;
   background-position: center;
 }
 
-.bgProducts{
+.bgProducts {
   background-image: url('/bgs/bgprodutos.png');
   background-size: cover;
   background-position: center;
 }
 
-.bgContact{
+.bgContact {
   background-image: url('/bgs/bgcontact.png');
   background-size: cover;
   background-position: center;
 }
 
-.bgBuy{
+.bgSlug {
+  background-image: url('/bgs/bgslug.png');
+  background-size: cover;
+  background-position:center;
+  height: calc(100vh - 91px);
+}
+
+.bgBuy {
   background-image: url('/bgs/bgbuy.png');
   background-size: cover;
   background-position: center;
 }
 
-h1,h2{
+h1,
+h2 {
   font-family: "Red Rose", serif;
 }
 
@@ -90,7 +98,8 @@ h1,h2{
   background: #ebdfcb;
   border-radius: 10px;
   padding: 8px 10px;
-  color: #0b6b52; /* ajuste se quiser */
+  color: #0b6b52;
+  /* ajuste se quiser */
   outline: none;
   border: none;
 }
@@ -104,4 +113,3 @@ h1,h2{
 
 
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Red+Rose:wght@300..700&display=swap');
-

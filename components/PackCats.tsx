@@ -1,8 +1,14 @@
-import React from "react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
+import { useRouter } from "next/router";
 
 export default function PackCats() {
   const t = useTranslations("packcats");
+  const router = useRouter();
+  const locale = router.locale || "pt"; // pega o idioma atual, ou pt como fallback
+
+  // caminho de produtos por idioma
+  const productsPath = `/${locale}/produtos`; // ajuste se sua rota tiver outro nome
 
   return (
     <>
@@ -15,12 +21,12 @@ export default function PackCats() {
             </h1>
             <p className="text-white mt-4 text-lg text-center lg:text-left">{t("description")}</p>
             <div className="flex mt-4 justify-center lg:justify-start">
-              <a
+              <Link
+                href={productsPath}
                 className="bg-white px-12 py-2 rounded-2xl text-lg text-Azul font-medium mt-2"
-                href=""
               >
                 {t("buttoncat")}
-              </a>
+              </Link>
             </div>
           </article>
           <article className="lg:w-1/2">
