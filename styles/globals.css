@@ -50,7 +50,7 @@ html {
   background-image: url('/bgs/bgslug.png');
   background-size: cover;
   background-position:center;
-  height: calc(100vh - 91px);
+  /* height: calc(100vh - 91px); */
 }
 
 .bgBuy {

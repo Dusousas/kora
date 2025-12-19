@@ -55,12 +55,12 @@ export default function ProdutoSlug({ product }: Props) {
           } as React.CSSProperties
         }
       >
-        <div className="max-w-[1200px] mx-auto flex h-full w-full justify-center items-center">
+        <div className="max-w-[1200px] mx-auto flex flex-col h-full w-full justify-center items-center lg:flex-row">
           {/* COLUNA ESQUERDA */}
           <article className="lg:w-1/2 flex flex-col items-center">
             {/* CARD TOPO */}
             <div
-              className="text-primary px-6 py-14 rounded-2xl w-[445px] z-20 relative"
+              className="text-primary px-6 py-14 rounded-2xl lg:w-[445px] z-20 relative"
               style={{ backgroundColor: "var(--cardTop)" }}
             >
               {/* IMGS TOPO */}

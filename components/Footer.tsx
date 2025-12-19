@@ -9,7 +9,7 @@ export default function Footer() {
   const t = useTranslations("footer");
 
   return (
-    <footer className="py-6 bg-VerdeP">
+    <footer className="py-6 bg-VerdeP/20">
       <div className="maxW">
         <article className="flex flex-col justify-center gap-8 w-full items-center lg:flex-row lg:gap-30">
           <div className="lg:w-1/6">
@@ -28,7 +28,7 @@ export default function Footer() {
 
           <div className="flex flex-col justify-center items-center lg:justify-start lg:items-start lg:w-1/6">
             <div className="h-10 w-10 bg-white flex justify-center items-center rounded-full">
-              <a className="" href="">
+              <a className=""target="_blank" href="https://www.instagram.com/kora.natural/">
                 <FaInstagram className="text-VerdeP text-xl" />
               </a>
             </div>
