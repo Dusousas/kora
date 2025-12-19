@@ -47,7 +47,7 @@ export default function ProdutoSlug({ product }: Props) {
   return (
     <>
       <section
-        className="bgSlug py-10 lg:py-35"
+        className="bgSlug pt-30 lg:pt-35 lg:pb-10"
         style={
           {
             ["--cardTop" as any]: theme.cardTop,
@@ -56,19 +56,19 @@ export default function ProdutoSlug({ product }: Props) {
           } as React.CSSProperties
         }
       >
-        <div className="max-w-[1300px] mx-auto flex flex-col gap-20 h-full w-full justify-center items-center lg:flex-row">
+        <div className="mx-auto flex flex-col px-2 h-full w-full justify-center items-center lg:flex-row lg:gap-20 lg:max-w-[1300px]">
           {/* COLUNA ESQUERDA */}
-          <article className="lg:w-1/2 flex flex-col items-center">
+          <article className=" flex flex-col items-center px-2 w-full lg:w-1/2">
             {/* CARD TOPO */}
             <div
-              className="text-primary px-6 py-14 rounded-2xl lg:w-[445px] z-20 relative"
+              className="text-primary w-full px-6 py-14 rounded-2xl z-20 relative lg:w-[445px]"
               style={{ backgroundColor: "var(--cardTop)" }}
             >
               {/* IMGS TOPO */}
-              <div className="flex gap-4 absolute -top-20 left-10">
-                <img className="w-[110px]" src="/logos/superfoods.png" alt="" />
-                <img className="w-[110px]" src="/logos/transgenicos.png" alt="" />
-                <img className="w-[110px]" src="/logos/110.png" alt="" />
+              <div className="flex gap-4 absolute -top-15  left-10 lg:-top-20">
+                <img className="w-[80px] lg:w-[110px]" src="/logos/superfoods.png" alt="" />
+                <img className="w-[80px] lg:w-[110px]" src="/logos/transgenicos.png" alt="" />
+                <img className="w-[80px] lg:w-[110px]" src="/logos/110.png" alt="" />
               </div>
 
               <h3 className="uppercase text-5xl font-semibold mt-4">
@@ -84,10 +84,10 @@ export default function ProdutoSlug({ product }: Props) {
 
             {/* CARD BASE */}
             <div
-              className="text-primary px-6 py-8 rounded-b-2xl w-[445px] relative -top-4"
+              className="text-primary px-6 py-8 rounded-b-2xl  relative -top-4 lg:w-[445px]"
               style={{ backgroundColor: "var(--cardBottom)" }}
             >
-              <div className="flex gap-4">
+              <div className="flex flex-col gap-4 lg:flex-row">
                 <div className="w-[80%]">
                   <p className="uppercase">{product.psabor}</p>
                   <p className="font-semibold text-xl uppercase">{product.desc}</p>
@@ -95,7 +95,7 @@ export default function ProdutoSlug({ product }: Props) {
 
                 {/* CHIP GRÃO */}
                 <div
-                  className="w-[20%] p-2 rounded-xl"
+                  className="w-[30%] p-2 rounded-xl lg:w-[20%]"
                   style={{ backgroundColor: "var(--chip)" }}
                 >
                   <img src={product.imagegrao} alt="" />
@@ -109,15 +109,14 @@ export default function ProdutoSlug({ product }: Props) {
             </div>
           </article>
 
-          {/* COLUNA DIREITA */}
           <article className="lg:w-1/2 flex flex-col items-center relative">
             <img
-              className="w-full max-w-[550px] rounded-2xl"
+              className="w-full lmax-w-[550px] rounded-2xl"
               src={product.image}
               alt={product.name1}
             />
 
-            <div className="absolute right-10 top-20 w-[200px] flex flex-col justify-center items-center">
+            <div className="absolute w-[200px] flex flex-col right-0 justify-center items-center lg:right-10 lg:top-20">
               <img src="/logos/selo-reciclavel.svg" alt="" />
               <img className="w-[150px]" src="/logos/eureciclo.png" alt="" />
             </div>
