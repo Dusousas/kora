@@ -5,6 +5,7 @@ import { getMessages } from "../../../lib/getMessages";
 
 import ptMessages from "../../../messages/pt.json";
 import Infos from "./components/Infos";
+import Composicao from "./components/Composicao";
 
 type ProductTheme = {
   cardTop: string;     // fundo do bloco topo
@@ -46,7 +47,7 @@ export default function ProdutoSlug({ product }: Props) {
   return (
     <>
       <section
-        className="bgSlug"
+        className="bgSlug py-10 lg:py-35"
         style={
           {
             ["--cardTop" as any]: theme.cardTop,
@@ -55,7 +56,7 @@ export default function ProdutoSlug({ product }: Props) {
           } as React.CSSProperties
         }
       >
-        <div className="max-w-[1200px] mx-auto flex flex-col h-full w-full justify-center items-center lg:flex-row">
+        <div className="max-w-[1300px] mx-auto flex flex-col gap-20 h-full w-full justify-center items-center lg:flex-row">
           {/* COLUNA ESQUERDA */}
           <article className="lg:w-1/2 flex flex-col items-center">
             {/* CARD TOPO */}
@@ -124,6 +125,8 @@ export default function ProdutoSlug({ product }: Props) {
         </div>
       </section>
       <Infos product={product}  />
+      <Composicao product={product}  />
+
     </>
   );
 }

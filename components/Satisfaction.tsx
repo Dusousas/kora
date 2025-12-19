@@ -37,9 +37,9 @@ export default function Satisfaction() {
             <p className="text-white text-sm mt-6 text-center lg:text-left">{t("important")}</p>
 
             <div className="flex justify-center mt-4 lg:justify-start">
-              <a
+              <a target="_blank"
                 className="bg-white px-12 py-2 rounded-2xl text-lg text-VerdeP font-medium mt-2"
-                href=""
+                href="https://8f0d7119-d722-4d24-9912-3c97402de32e.filesusr.com/ugd/6e6eb0_1444a31f229f4b419df2a061deec715e.pdf"
               >
                 {t("buttonsatsfaction")}
               </a>

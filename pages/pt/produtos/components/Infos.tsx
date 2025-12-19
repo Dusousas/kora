@@ -1,6 +1,24 @@
 import React from "react";
 import { useTranslations } from "next-intl";
 
+type InfosCardDesktop = {
+  img: string;
+  alt?: string;
+  className: string;
+};
+
+type InfosCardMobile = {
+  img: string;
+  alt?: string;
+};
+
+type ProductInfosCards = {
+  plateImage: string;
+  desktop: InfosCardDesktop[];
+  mobileMarquee?: InfosCardMobile[];
+  speedSeconds?: number;
+};
+
 type ProductItem = {
   slug: string;
   image: string;
@@ -9,10 +27,12 @@ type ProductItem = {
   desc: string;
   kg?: string;
 
-  h4slug: string;
-  psabor: string;
-  pdisponivel: string;
-  imagegrao: string;
+  h4slug?: string;
+  psabor?: string;
+  pdisponivel?: string;
+  imagegrao?: string;
+
+  infosCards?: ProductInfosCards;
 };
 
 type Props = {
@@ -20,45 +40,55 @@ type Props = {
 };
 
 export default function Infos({ product }: Props) {
-  const t = useTranslations("infos");
+  const t = useTranslations("");
 
-  // Cards do marquee no mobile
-  const mobileCards = [
-    { img: "/produtos/infos/sodio.svg", alt: "Info 1" },
-    { img: "/produtos/infos/sodio.svg", alt: "Info 2" },
-    { img: "/produtos/infos/sodio.svg", alt: "Info 3" },
-    { img: "/produtos/infos/sodio.svg", alt: "Info 4" },
-    { img: "/produtos/infos/sodio.svg", alt: "Info 5" },
-    { img: "/produtos/infos/sodio.svg", alt: "Info 6" },
-    { img: "/produtos/infos/sodio.svg", alt: "Info 7" },
-  ];
+  // ✅ não existe infosCards? não renderiza
+  const infos = product?.infosCards;
+  if (!infos) return null;
+
+  // ✅ não existe desktop ou está vazio? não renderiza (evita crash)
+  const desktop = infos.desktop;
+  if (!Array.isArray(desktop) || desktop.length === 0) return null;
+
+  const plateImage = infos.plateImage;
+
+  // ✅ se não vier mobileMarquee, usa os do desktop como fallback
+  const mobileList: InfosCardMobile[] =
+    infos.mobileMarquee && infos.mobileMarquee.length > 0
+      ? infos.mobileMarquee
+      : desktop.map((d) => ({ img: d.img, alt: d.alt }));
+
+  const duration = Math.max(8, infos.speedSeconds ?? 18);
 
   return (
     <>
-      <section className="py-10 bg-VerdeP">
+      <section className="lg:py-10 bg-VerdeP">
         <div className="max-w-[1480px] mx-auto">
-          {/* ===== MOBILE (até md): prato + linha contínua ===== */}
+          {/* ===== MOBILE (até lg) ===== */}
           <div className="lg:hidden">
             <div className="flex items-center justify-center pt-10">
               <img
-                className=" max-w-[350px] w-full"
-                src="/produtos/infos/prato.png"
-                alt=""
+                className="max-w-[350px] w-full"
+                src={plateImage}
+                alt="Prato"
               />
             </div>
 
             <div className="overflow-hidden py-8">
-              <div className="flex items-center gap-6 animate-slide">
+              <div
+                className="flex items-center gap-6 animate-slide"
+                style={{ ["--marquee-duration" as any]: `${duration}s` }}
+              >
                 {Array(2)
                   .fill(0)
                   .map((_, idx) => (
                     <React.Fragment key={idx}>
-                      {mobileCards.map((item, i) => (
+                      {mobileList.map((item, i) => (
                         <img
                           key={`${idx}-${i}`}
                           className="h-[80px] w-auto shrink-0"
                           src={item.img}
-                          alt={item.alt}
+                          alt={item.alt || `Info ${i + 1}`}
                         />
                       ))}
                     </React.Fragment>
@@ -67,95 +97,28 @@ export default function Infos({ product }: Props) {
             </div>
           </div>
 
-          {/* ===== MD+: seu layout original (prato + cards absolutos) ===== */}
+          {/* ===== DESKTOP (lg+) ===== */}
           <div className="hidden lg:flex relative items-center justify-center py-20">
-            {/* IMG PRATO PRINCPAL */}
+            {/* Prato */}
             <img
               className="py-10 lg:max-w-[500px]"
-              src="/produtos/infos/prato.png"
-              alt=""
+              src={plateImage}
+              alt="Prato"
             />
 
-            {/* IMG CARDS TOP */}
-            <div>
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-0 left-0 "
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100 "
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-            </div>
+            {/* Cards dinâmicos */}
+            {desktop.map((card, idx) => {
+              if (!card?.img || !card?.className) return null; // blindagem extra
 
-            {/* IMG CARDS LEFT */}
-            <div>
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-37 left-10"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-75 left-0"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-            </div>
-
-            {/* IMG CARDS RIGHT */}
-            <div>
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute top-75 right-0"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-              <img
-                className=" lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-            </div>
-
-            {/* IMG CARDS BOTTOM */}
-            <div>
-              <img
-                className="lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150"
-                src="/produtos/infos/sodio.svg"
-                alt=""
-              />
-            </div>
+              return (
+                <img
+                  key={`${product.slug}-card-${idx}`}
+                  className={card.className}
+                  src={card.img}
+                  alt={card.alt || `Card ${idx + 1}`}
+                />
+              );
+            })}
           </div>
         </div>
       </section>
@@ -171,7 +134,7 @@ export default function Infos({ product }: Props) {
         }
         .animate-slide {
           width: max-content;
-          animation: slide 18s linear infinite;
+          animation: slide var(--marquee-duration) linear infinite;
         }
       `}</style>
     </>

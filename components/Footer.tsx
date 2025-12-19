@@ -9,7 +9,7 @@ export default function Footer() {
   const t = useTranslations("footer");
 
   return (
-    <footer className="py-6 bg-VerdeP/20">
+    <footer className="py-6 bg-VerdeP">
       <div className="maxW">
         <article className="flex flex-col justify-center gap-8 w-full items-center lg:flex-row lg:gap-30">
           <div className="lg:w-1/6">

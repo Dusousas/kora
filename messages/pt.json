@@ -12,7 +12,6 @@
     "description": "Nutrição de verdade para uma vida longa e saudável",
     "buttonmain": "Conheça a linha completa"
   },
-
   "main": {
     "title": "Ingredientes Selecionados para seu cão",
     "description": "Nutrição de verdade para uma vida longa e saudável",
@@ -55,7 +54,6 @@
     "important": "Importante: para o ressarcimento, o produto deve estar na embalagem original, com 75% do volume.",
     "buttonsatsfaction": "Consulte o regulamento"
   },
-
   "contact": {
     "title": "Fale conosco",
     "fullName": {
@@ -140,7 +138,6 @@
         "name2": "Porte Médio e Grande",
         "desc": "Frango com Ervilha e Mirtilo",
         "kg": "2,5kg e 15kg",
-
         "h4slug": "A partir de 12 meses",
         "psabor": "Sabor",
         "pdisponivel": "Disponível em embalagens de 15KG",
@@ -149,6 +146,113 @@
           "cardTop": "#BB5013",
           "cardBottom": "#EA5B1B",
           "chip": "#BB5013"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "speedSeconds": 18,
+          "mobileMarquee": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sódio"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Imunidade"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes"
+            }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sódio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Imunidade",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sódio (lado)",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Fezes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sem corantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composição Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado, mirtilo desidratado), levedura de cervejaria inativada desidratada, polpa desidratada de beterraba (2%), óleo de aves, óleo de peixes, sulfato de glicosamina, sulfato de condroitina, cloreto de sódio, cloreto de potássio, hidrolisado de fígado de aves, hidrolisado de carne de aves e fígado de aves, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganês aminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimento",
+            "text": "Vitamina A: 14.761 UI, Vitamina D3: 1.152 UI, Vitamina E: 142 UI, Vitamina K3: 1,43 mg, Vitamina B1: 4,7 mg, Vitamina B2: 12,2 mg, Vitamina B3: 32,6 mg, Vitamina B5: 26,6 mg, Vitamina B6: 3,5 mg, Vitamina B9: 0,57 mg, Vitamina B12: 74,2 mcg, Vitamina H: 0,31 mg, Vitamina C: 37 mg, Fosfatidilcolina: 9 mg, Ferro: 88 mg, Cobre: 11 mg, Zinco: 135 mg, Manganês: 8,3 mg, Selênio: 0,47 mg, Iodo: 1,5 mg. *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Níveis de Garantia",
+            "text": "Umidade (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extrato etéreo (mín.) 140,00 g/kg; Matéria fibrosa (máx.) 30,00 g/kg; Matéria mineral (máx.) 75,00 g/kg; Cálcio (máx.) 14,00 g/kg; Cálcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sódio (mín.) 2.200,00 mg/kg; Sódio (máx.) 3.000,00 mg/kg; Potássio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Ômega 6 (mín.) 26,00 g/kg; Ômega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.500,00 mg/kg; Sulfato de condroitina (mín.) 62,00 mg/kg; Sulfato de glicosamina (mín.) 750,00 mg/kg; Mananoligossacarídeos (mín.) 195,00 mg/kg; Beta-glucanas (mín.) 360,00 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selênio orgânico (mín.) 0,14 mg/kg; Zinco orgânico (mín.) 40,00 mg/kg; Energia metabolizável (mín.) 3.960,00 kcal/kg."
+          }
         }
       },
       {
@@ -157,7 +261,133 @@
         "name1": "Cães Filhotes",
         "name2": "Porte Médio e Grande",
         "desc": "Frango com Cenoura e Maça",
-        "kg": "2,5kg e 15kg"
+        "kg": "2,5kg e 15kg",
+        "h4slug": "Até 12 ou 18 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponível em embalagens de 2,5kg e 15kg",
+        "imagegrao": "/produtos/grao/kible1.png",
+        "theme": {
+          "cardTop": "#F7A70A",
+          "cardBottom": "#C78909",
+          "chip": "#F7A70A"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "speedSeconds": 18,
+          "mobileMarquee": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sódio"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Imunidade"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes"
+            }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sódio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Imunidade",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sódio (lado)",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-22 left-10"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-48 left-10"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-100 left-10"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Fezes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sem corantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composição Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado, mirtilo desidratado), levedura de cervejaria inativada desidratada, polpa desidratada de beterraba (2%), óleo de aves, óleo de peixes, sulfato de glicosamina, sulfato de condroitina, cloreto de sódio, cloreto de potássio, hidrolisado de fígado de aves, hidrolisado de carne de aves e fígado de aves, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganês aminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimento",
+            "text": "Vitamina A: 14.761 UI, Vitamina D3: 1.152 UI, Vitamina E: 142 UI, Vitamina K3: 1,43 mg, Vitamina B1: 4,7 mg, Vitamina B2: 12,2 mg, Vitamina B3: 32,6 mg, Vitamina B5: 26,6 mg, Vitamina B6: 3,5 mg, Vitamina B9: 0,57 mg, Vitamina B12: 74,2 mcg, Vitamina H: 0,31 mg, Vitamina C: 37 mg, Fosfatidilcolina: 9 mg, Ferro: 88 mg, Cobre: 11 mg, Zinco: 135 mg, Manganês: 8,3 mg, Selênio: 0,47 mg, Iodo: 1,5 mg. *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Níveis de Garantia",
+            "text": "Umidade (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extrato etéreo (mín.) 140,00 g/kg; Matéria fibrosa (máx.) 30,00 g/kg; Matéria mineral (máx.) 75,00 g/kg; Cálcio (máx.) 14,00 g/kg; Cálcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sódio (mín.) 2.200,00 mg/kg; Sódio (máx.) 3.000,00 mg/kg; Potássio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Ômega 6 (mín.) 26,00 g/kg; Ômega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.500,00 mg/kg; Sulfato de condroitina (mín.) 62,00 mg/kg; Sulfato de glicosamina (mín.) 750,00 mg/kg; Mananoligossacarídeos (mín.) 195,00 mg/kg; Beta-glucanas (mín.) 360,00 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selênio orgânico (mín.) 0,14 mg/kg; Zinco orgânico (mín.) 40,00 mg/kg; Energia metabolizável (mín.) 3.960,00 kcal/kg."
+          }
+        }
       },
       {
         "slug": "caes-adultos-porte-pequeno",
