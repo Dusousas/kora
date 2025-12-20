@@ -149,6 +149,7 @@
         },
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
           "speedSeconds": 18,
           "mobileMarquee": [
             {
@@ -168,8 +169,40 @@
               "alt": "Dental"
             },
             {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sódio (lado)"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Fezes"
+            },
+            {
               "img": "/produtos/infos/antioxidantes.svg",
               "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sem corantes"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular"
             }
           ],
           "desktop": [
@@ -273,6 +306,7 @@
         },
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
           "speedSeconds": 18,
           "mobileMarquee": [
             {
@@ -292,8 +326,48 @@
               "alt": "Dental"
             },
             {
+              "img": "/produtos/infos/super-foods",
+              "alt": "Sódio (lado)"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Fezes"
+            },
+            {
               "img": "/produtos/infos/antioxidantes.svg",
               "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sem corantes"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular"
             }
           ],
           "desktop": [
@@ -407,6 +481,7 @@
         },
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
           "speedSeconds": 18,
           "mobileMarquee": [
             {
@@ -426,8 +501,32 @@
               "alt": "Dental"
             },
             {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sódio (lado)"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Fezes"
+            },
+            {
               "img": "/produtos/infos/antioxidantes.svg",
               "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/indoor.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sem corantes"
             }
           ],
           "desktop": [
@@ -521,6 +620,7 @@
         },
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
           "speedSeconds": 18,
           "mobileMarquee": [
             {
@@ -540,8 +640,40 @@
               "alt": "Dental"
             },
             {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sódio (lado)"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/indoor.svg",
+              "alt": "Fezes"
+            },
+            {
               "img": "/produtos/infos/antioxidantes.svg",
               "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sem corantes"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Articular"
             }
           ],
           "desktop": [
@@ -632,14 +764,330 @@
         "image": "/produtos/produto3.png",
         "name1": "Gatos Adultos Castrados",
         "desc": "Frango com Cenoura e e Maça",
-        "kg": "1,5kg e 7,5kg"
+        "kg": "1,5kg e 7,5kg",
+        "h4slug": "Até 12 ou 18 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponível em embalagens de 1,5kg e 7,5kg",
+        "imagegrao": "/produtos/grao/kible4.png",
+        "theme": {
+          "cardTop": "#AF3158",
+          "cardBottom": "#D43B6B",
+          "chip": "#AF3158"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-Azul",
+          "speedSeconds": 18,
+          "mobileMarquee": [
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sódio"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Imunidade"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Fezes"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sem corantes"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular"
+            }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sódio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[240px] xl:w-[350px] absolute -top-5 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Imunidade",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-30 left-6"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-60 left-0"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-90 left-10"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-27 left-34"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Fezes",
+              "className": "lg:w-[230px] xl:w-[350px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[320px] absolute top-37 right-6"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-70 right-0"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sem corantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-40 right-20"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[300px] absolute bottom-0 right-30"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[350px] absolute -bottom-10 lg:right-105 xl:right-130"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composição Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado,prebiótico), zeólita (0,75%), extrato de yucca (0,05%), aditivo regulador de acidez (ácido cítrico, metionina,cloretos, óleo de peixes, cloreto de sódio, cloreto de potássio, hidrolisado de fígado de aves, hidrolisado de fígado de suínos, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C,vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganêsaminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), aditivo regulador de acidez (ácido cítrico, metionina,cloreto de amônio, sulfato de amônio, óleo de girassol refinado, cloreto de sódio), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimento",
+            "text": "Vitamina A: 12.112 UI, Vitamina D3: 480 UI, Vitamina E: 138 UI, Vitamina K3: 1,15 mg, Vitamina B1: 9 mg, Vitamina B2: 6 mg, Vitamina B3: 58,2 mg, Vitamina B5: 10 mg, Vitamina B6: 5,5 mg, Vitamina B9: 1,55 mg, Vitamina B12: 36 mcg, Vitamina H: 0,2 mg, Vitamina C: 50 mg, Fosfatidilcolina: 14,46 mg, Ferro (Hierro): 74,9 mg, Cobre: 8 mg, Zinco (Zinc): 130 mg, Manganês (Manganeso): 8 mg, Selênio: 0,34 mg, Iodo: 1,7 mg.  *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Níveis de Garantia",
+            "text": "Umidade (máx.) 100,00 g/kg; Proteína bruta (mín.) 380,00 g/kg; Extrato etéreo (mín.) 110,00 g/kg; Matéria fibrosa (máx.) 40,00 g/kg; Matéria mineral (máx.) 80,00 g/kg; Cálcio (máx.) 14,00 g/kg; Cálcio (mín.) 10,00 g/kg; Fósforo (mín.) 8.400,00 mg/kg; Sódio (mín.) 2.000,00 mg/kg; Sódio (máx.) 4.000,00 mg/kg; Potássio (mín.) 7.000,00 mg/kg; Lisina (mín.) 12,00 g/kg; Metionina (mín.) 6.000,00 mg/kg; Ômega 6 (mín.) 20,00 g/kg; Ômega 3 (mín.) 2.000,00 mg/kg; EPA + DHA (mín.) 270,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.300,00 mg/kg; Mananoligossacarídeos (mín.) 195,00 mg/kg; Beta-glucanas (mín.) 360,00 mg/kg; Vitamina E (mín.) 138,00 UI/kg; Vitamina C (mín.) 50,00 mg/kg; Selênio orgânico (mín.) 0,10 mg/kg; Zinco orgânico (mín.) 39,00 mg/kg; Energia metabolizável (mín.) 3.815,00 kcal/kg"
+          }
+        }
       },
       {
         "slug": "gatos-adultos",
         "image": "/produtos/produto2.png",
         "name1": "Gatos Adultos",
         "desc": "Frango com Batat Doce e Mirtilo",
-        "kg": "1,5kg e 7,5kg"
+        "kg": "1,5kg e 7,5kg",
+        "h4slug": "A partir de 12 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponível em embalagens de 1,5kg e 7,5kg",
+        "imagegrao": "/produtos/grao/kible2.png",
+        "theme": {
+          "cardTop": "#764377",
+          "cardBottom": "#8f5191",
+          "chip": "#764377"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-Azul",
+          "speedSeconds": 18,
+          "mobileMarquee": [
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sódio"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Imunidade"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Fezes"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sem corantes"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular"
+            }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sódio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[240px] xl:w-[350px] absolute -top-5 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Imunidade",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-30 left-6"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-60 left-0"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-90 left-10"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-27 left-34"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Fezes",
+              "className": "lg:w-[230px] xl:w-[350px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[320px] absolute top-37 right-6"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-70 right-0"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sem corantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-40 right-20"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[300px] absolute bottom-0 right-30"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[350px] absolute -bottom-10 lg:right-105 xl:right-130"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composição Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado, mirtilo desidratado), levedura de cervejaria inativada desidratada, polpa desidratada de beterraba (3%), óleo de aves, óleo de peixes, cloreto de sódio, cloreto de potássio, hidrolisado de fígado de aves, hidrolisado de fígado de suínos, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganês aminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), aditivo regulador de acidez (ácido cítrico, metionina, cloreto de amônio, sulfato de amônio, óleo de girassol refinado, cloreto de sódio), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimento",
+            "text": "Vitamina A: 12.112 UI, Vitamina D3: 480 UI, Vitamina E: 138 UI, Vitamina K3: 1,15 mg, Vitamina B1: 9 mg, Vitamina B2: 6 mg, Vitamina B3: 58,2 mg, Vitamina B5: 10 mg, Vitamina B6: 5,5 mg, Vitamina B9: 1,55 mg, Vitamina B12: 36 mcg, Vitamina H: 0,2 mg, Vitamina C: 50 mg, Fosfatidilcolina: 14,46 mg, Ferro: 74,9 mg, Cobre: 8 mg, Zinco: 130 mg, Manganês: 8 mg, Selênio: 0,34 mg, Iodo: 1,7 mg. *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Níveis de Garantia",
+            "text": "Umidade (máx.) 100,00 g/kg; Proteína bruta (mín.) 335,00 g/kg; Extrato etéreo (mín.) 150,00 g/kg; Matéria fibrosa (máx.) 30,00 g/kg; Matéria mineral (máx.) 80,00 g/kg; Cálcio (máx.) 14,00 g/kg; Cálcio (mín.) 10,00 g/kg; Fósforo (mín.) 8.400,00 mg/kg; Sódio (mín.) 2.000,00 mg/kg; Sódio (máx.) 4.000,00 mg/kg, Potássio (mín.) 7.000,00 mg/kg; Lisina (mín.) 12,00 g/kg; Metionina (mín.) 6.000,00 mg/kg; Ômega 6 (mín.) 22,00 g/kg;  Ômega 3 (mín.) 2.200,00 mg/kg; EPA + DHA (mín.) 270,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.300,00 mg/kg; Mananoligossacarídeos (mín.) 195,00 mg/kg; Beta-glucanas (mín.) 360,00 mg/kg; Vitamina E (mín.) 138,00 UI/kg; Vitamina C (mín.) 50,00 mg/kg; Selênio orgânico (mín.) 0,10 mg/kg; Zinco orgânico (mín.) 39,00 mg/kg; Energia metabolizável (mín.) 4.035,00 kcal/kg."
+          }
+        }
       }
     ]
   }

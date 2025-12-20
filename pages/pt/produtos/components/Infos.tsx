@@ -13,6 +13,7 @@ type InfosCardMobile = {
 };
 
 type ProductInfosCards = {
+  sectionBg?: string; // ✅ novo (bg da SECTION)
   plateImage: string;
   desktop: InfosCardDesktop[];
   mobileMarquee?: InfosCardMobile[];
@@ -42,17 +43,14 @@ type Props = {
 export default function Infos({ product }: Props) {
   const t = useTranslations("");
 
-  // ✅ não existe infosCards? não renderiza
   const infos = product?.infosCards;
   if (!infos) return null;
 
-  // ✅ não existe desktop ou está vazio? não renderiza (evita crash)
   const desktop = infos.desktop;
   if (!Array.isArray(desktop) || desktop.length === 0) return null;
 
   const plateImage = infos.plateImage;
 
-  // ✅ se não vier mobileMarquee, usa os do desktop como fallback
   const mobileList: InfosCardMobile[] =
     infos.mobileMarquee && infos.mobileMarquee.length > 0
       ? infos.mobileMarquee
@@ -60,9 +58,12 @@ export default function Infos({ product }: Props) {
 
   const duration = Math.max(8, infos.speedSeconds ?? 18);
 
+  // ✅ bg da section vem do JSON (fallback: Verde)
+  const sectionBg = infos.sectionBg ?? "bg-VerdeP";
+
   return (
     <>
-      <section className="lg:py-10 bg-VerdeP">
+      <section className={`lg:py-10 ${sectionBg}`}>
         <div className="max-w-[1480px] mx-auto">
           {/* ===== MOBILE (até lg) ===== */}
           <div className="lg:hidden">
@@ -106,9 +107,9 @@ export default function Infos({ product }: Props) {
               alt="Prato"
             />
 
-            {/* Cards dinâmicos */}
+            {/* Cards */}
             {desktop.map((card, idx) => {
-              if (!card?.img || !card?.className) return null; // blindagem extra
+              if (!card?.img || !card?.className) return null;
 
               return (
                 <img
