@@ -58,7 +58,6 @@ export default function Infos({ product }: Props) {
 
   const duration = Math.max(8, infos.speedSeconds ?? 18);
 
-  // ✅ bg da section vem do JSON (fallback: Verde)
   const sectionBg = infos.sectionBg ?? "bg-VerdeP";
 
   return (

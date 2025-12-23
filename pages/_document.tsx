@@ -1,9 +1,8 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import Script from "next/script";
 
 export default function Document() {
   return (
-    <Html lang="pt">
+    <Html lang="pt-BR">
       <Head>
         <meta
           name="description"
@@ -43,11 +42,9 @@ export default function Document() {
         />
         <meta name="twitter:image" content="/logo.png" />
 
-
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com"  />
-<link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Red+Rose:wght@300..700&display=swap" rel="stylesheet" />
-
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Red+Rose:wght@300..700&display=swap" rel="stylesheet" />
       </Head>
 
       <body className="antialiased">

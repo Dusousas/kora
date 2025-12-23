@@ -110,8 +110,8 @@
     "highlight": "Na KORA NATURAL você encontra o compromisso inabalável com a excelência.",
     "descriptionEnd": "Desde a seleção dos melhores ingredientes até nossa escolha por embalagens 100% recicláveis, estamos dedicados a elevar o padrão de nutrição — com transparência, qualidade e profundo respeito pela natureza. Queremos deixar uma pegada positiva por onde passamos.",
     "titlemissao": "Nossa missão",
-    "descmissao": "Proporcionar nutrição natural com ingredientes selecionados, para garantir mais qualidade de vida e equilíbrio para cães e gatos, por meio de uma fabricação responsável e cuidado com o meio-ambiente.",
-    "titlesocial": "Compromisso Social",
+    "descmissao": "Proporcionar nutrição super premium de verdade com ingredientes selecionados, para garantir mais qualidade de vida e equilíbrio para cães e gatos, por meio de uma fabricação responsável e cuidado com o meio-ambiente.",
+    "titlesocial": "Compromisso Invabalavel com a excelência",
     "descsocial": "Ao escolher Kora Natural, você se junta a nós em uma jornada de responsabilidade e amor. Parte de cada venda é destinada a iniciativas que apoiam o bem-estar animal e projetos sociais. A cada porção você tem uma oportunidade de espalhar amor e fazer a diferença.",
     "titlevalores": "Valores",
     "valores": [
@@ -137,7 +137,7 @@
         "name1": "Cães Adultos",
         "name2": "Porte Médio e Grande",
         "desc": "Frango com Ervilha e Mirtilo",
-        "kg": "2,5kg e 15kg",
+        "kg": "15kg",
         "h4slug": "A partir de 12 meses",
         "psabor": "Sabor",
         "pdisponivel": "Disponível em embalagens de 15KG",
@@ -150,7 +150,7 @@
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
           "sectionBg": "bg-VerdeP",
-          "speedSeconds": 18,
+          "speedSeconds": 40,
           "mobileMarquee": [
             {
               "img": "/produtos/infos/sodio.svg",
@@ -307,7 +307,7 @@
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
           "sectionBg": "bg-VerdeP",
-          "speedSeconds": 18,
+          "speedSeconds": 40,
           "mobileMarquee": [
             {
               "img": "/produtos/infos/sodio.svg",
@@ -482,7 +482,7 @@
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
           "sectionBg": "bg-VerdeP",
-          "speedSeconds": 18,
+          "speedSeconds": 40,
           "mobileMarquee": [
             {
               "img": "/produtos/infos/sodio.svg",
@@ -621,7 +621,7 @@
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
           "sectionBg": "bg-VerdeP",
-          "speedSeconds": 18,
+          "speedSeconds": 40,
           "mobileMarquee": [
             {
               "img": "/produtos/infos/sodio.svg",
@@ -777,7 +777,7 @@
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
           "sectionBg": "bg-Azul",
-          "speedSeconds": 18,
+          "speedSeconds": 40,
           "mobileMarquee": [
             {
               "img": "/produtos/infosc/imunidade.svg",
@@ -928,7 +928,7 @@
         "slug": "gatos-adultos",
         "image": "/produtos/produto2.png",
         "name1": "Gatos Adultos",
-        "desc": "Frango com Batat Doce e Mirtilo",
+        "desc": "Frango com Batata Doce e Mirtilo",
         "kg": "1,5kg e 7,5kg",
         "h4slug": "A partir de 12 meses",
         "psabor": "Sabor",
@@ -942,7 +942,7 @@
         "infosCards": {
           "plateImage": "/produtos/infos/prato.png",
           "sectionBg": "bg-Azul",
-          "speedSeconds": 18,
+          "speedSeconds": 40,
           "mobileMarquee": [
             {
               "img": "/produtos/infosc/imunidade.svg",
@@ -1004,17 +1004,17 @@
           "desktop": [
             {
               "img": "/produtos/infosc/imunidade.svg",
-              "alt": "Sódio",
+              "alt": "Imunidade",
               "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
             },
             {
               "img": "/produtos/infosc/sodio.svg",
-              "alt": "Paladares",
+              "alt": "Sódio",
               "className": "lg:w-[240px] xl:w-[350px] absolute -top-5 lg:left-70 xl:left-100"
             },
             {
               "img": "/produtos/infosc/dental.svg",
-              "alt": "Imunidade",
+              "alt": "Dental",
               "className": "lg:w-[230px] xl:w-[350px] absolute top-0 lg:left-135 xl:left-200"
             },
             {
