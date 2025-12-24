@@ -1,4 +1,197 @@
 {
-
- 
+	"navbar": {
+		"home": "Home",
+		"guide": "Pet Guide",
+		"products": "Products",
+		"kora": "About Kora",
+		"programa": "Satisfaction Program",
+		"contact": "Contact"
+	},
+	"main": {
+		"title": "Selected Ingredients for Your Dog",
+		"description": "Real nutrition for a long and healthy life",
+		"buttonmain": "Discover the full line"
+	},
+	"ctablog": {
+		"title": "Everything about care and well-being for your pet.",
+		"buttonblog": "Visit our blog"
+	},
+	"packdogs": {
+		"title": "Complete food",
+		"title1": "for every stage of your dog",
+		"description": "The KORA Natural line for Dogs was developed using selected ingredients. The combination of proteins, fruits and vegetables provides essential nutrients to offer a healthier and happier life for your faithful companion.",
+		"buttondog": "Discover"
+	},
+	"packcats": {
+		"title": "Irresistible flavor",
+		"title1": "that pleases even the most demanding cats",
+		"description": "The KORA Natural line for Cats helps make every meal an experience of love and joy. The inclusion of natural ingredients supports your feline's health and well-being. The combination of proteins, fruits and vegetables provides essential nutrients for real nutrition.",
+		"buttoncat": "Discover"
+	},
+	"ctaabout": {
+		"title": "About us",
+		"description": "Kora comes from the heart. From the essence.",
+		"description1": "From what is truly important.",
+		"buttonabout": "Read more"
+	},
+	"satisfaction": {
+		"title": "Satisfaction Program",
+		"subtitle": "110% satisfaction or your money back",
+		"description": "Our four-legged children mean great responsibility, love and challenge. We know they have their own preferences and getting their palate right can be difficult. Remember to always provide the correct nutrition considering size, life stage and, in some cases, specific needs. Through a complete diet you help offer your pet a better quality of life. Follow your veterinarian's recommendations, always provide fresh water, walks, affection and lots of love. If your pet does not adapt to our food, don't worry — we have the 110% Satisfaction campaign - we can exchange for another variety or offer a refund of the paid amount + 10%. To do this, contact our Customer Service and have the following on hand:",
+		"items": [
+			"Invoice from the partner store where the product was purchased",
+			"Your personal details",
+			"Keep at least 75% of the product in the original packaging following the instructions on the package",
+			"Product within the expiration date printed on the packaging"
+		],
+		"sacmail": "sac@noupetcare.com",
+		"sacphone": "(19) 99944-8710",
+		"important": "Important: for refund, the product must be in the original packaging, with 75% of the volume.",
+		"buttonsatsfaction": "Check the rules"
+	},
+	"contact": {
+		"title": "Contact us",
+		"fullName": {
+			"label": "Full name *",
+			"placeholder": "Full name"
+		},
+		"email": {
+			"label": "Email *",
+			"placeholder": "Email"
+		},
+		"phone": {
+			"label": "Whatsapp",
+			"placeholder": "(11) 99999-9999"
+		},
+		"about": {
+			"label": "About you *",
+			"placeholder": "Select an option",
+			"options": [
+				"Pet parent",
+				"Veterinarian",
+				"Retailer",
+				"Breeder",
+				"Supplier",
+				"Trainer",
+				"NGO",
+				"Other"
+			]
+		},
+		"message": {
+			"label": "Message *",
+			"placeholder": "Write your message..."
+		},
+		"button": "Send",
+		"contact": {
+			"email": "sac@noupetcare.com",
+			"phone": "(19) 99944-8710"
+		}
+	},
+	"tobuy": {
+		"title": "Where to buy",
+		"buttonbuy": "Learn more",
+		"description": "Want to know how to purchase <brand>KORA</brand> products? Get in touch with our sales team to find the ideal food for your pet. We're ready to help!",
+		"description1": "Visit our contact page and get in touch."
+	},
+	"footer": {
+		"titlecontact": "Consumer service:",
+		"emailcontact": "sac@noupetcare.com",
+		"titlesocial": "Follow us, interact and join the community",
+		"rights": "© 2025 <brand>KORA NATURAL</brand>. A NOU Pet Care brand."
+	},
+	"kora": {
+		"title": "Kora comes from the heart of the essence. From what is truly important.",
+		"descriptionStart": "At Kora Natural you will find real nutrition, selected ingredients and the promise of a healthier, happier life for your faithful companion. With our pets we celebrate adventures, contact with nature, playtime and many kisses. Each portion is an invitation to a great journey, whether an outdoor adventure or a living room play session.",
+		"highlight": "At KORA NATURAL you will find an unwavering commitment to excellence.",
+		"descriptionEnd": "From selecting the best ingredients to our choice of 100% recyclable packaging, we are dedicated to raising the standard of nutrition — with transparency, quality and deep respect for nature. We aim to leave a positive footprint wherever we go.",
+		"titlemissao": "Our mission",
+		"descmissao": "Provide true super-premium nutrition with selected ingredients to ensure better quality of life and balance for dogs and cats through responsible manufacturing and care for the environment.",
+		"titlesocial": "Unwavering commitment to excellence",
+		"descsocial": "By choosing Kora Natural, you join us on a journey of responsibility and love. Part of every sale is directed to initiatives that support animal welfare and social projects. With every portion you have an opportunity to spread love and make a difference.",
+		"titlevalores": "Values",
+		"valores": [
+			"Authenticity",
+			"Adventure",
+			"Care",
+			"Commitment",
+			"Freedom",
+			"Respect for nature",
+			"Quality"
+		],
+		"titlepack": "Our packaging is sustainable",
+		"descpack1": "Our packaging is 100% recyclable and reflects our commitment to the environment. Although we don't have sophisticated zippers or special seals, we choose reusable materials that can be sent to selective collection.",
+		"descpack2": "In addition, we use colors intelligently to reduce environmental impact and, in partnership with the EU RECYCLE seal, we offset each package produced by supporting recycling cooperatives. By choosing KORA NATURAL, you also support a community dedicated to caring for our planet.",
+		"descpack3": "Join us in this mission!"
+	},
+	"products": {
+		"title": "Kora comes from the heart. From the essence. From what is truly important",
+		"items": [
+			{
+				"slug": "caes-adultos",
+				"image": "/produtos/produto5.png",
+				"name1": "Adult Dogs",
+				"name2": "Medium and Large",
+				"desc": "Chicken with Pea and Blueberry",
+				"kg": "15kg",
+				"h4slug": "From 12 months",
+				"psabor": "Flavor",
+				"pdisponivel": "Available in 15KG packages",
+				"imagegrao": "/produtos/grao/kible5.png",
+				"theme": {
+					"cardTop": "#BB5013",
+					"cardBottom": "#EA5B1B",
+					"chip": "#BB5013"
+				},
+				"infosCards": {
+					"plateImage": "/produtos/infos/prato.png",
+					"sectionBg": "bg-VerdeP",
+					"speedSeconds": 40,
+					"mobileMarquee": [
+						{ "img": "/produtos/infos/sodio.svg", "alt": "Sodium" },
+						{ "img": "/produtos/infos/paladares.svg", "alt": "Palates" },
+						{ "img": "/produtos/infos/imunidade.svg", "alt": "Immunity" },
+						{ "img": "/produtos/infos/dental.svg", "alt": "Dental" },
+						{ "img": "/produtos/infos/super-foods.svg", "alt": "Sodium (side)" },
+						{ "img": "/produtos/infos/formato.svg", "alt": "Shape" },
+						{ "img": "/produtos/infos/pelo.svg", "alt": "Coat" },
+						{ "img": "/produtos/infos/fezes.svg", "alt": "Stools" },
+						{ "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidants" },
+						{ "img": "/produtos/infos/intestinal.svg", "alt": "Digestive" },
+						{ "img": "/produtos/infos/corantes.svg", "alt": "No colorants" },
+						{ "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
+						{ "img": "/produtos/infos/articular.svg", "alt": "Joint" }
+					],
+					"desktop": [
+						{ "img": "/produtos/infos/sodio.svg", "alt": "Sodium", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0" },
+						{ "img": "/produtos/infos/paladares.svg", "alt": "Palates", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100" },
+						{ "img": "/produtos/infos/imunidade.svg", "alt": "Immunity", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200" },
+						{ "img": "/produtos/infos/dental.svg", "alt": "Dental", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0" },
+						{ "img": "/produtos/infos/super-foods.svg", "alt": "Sodium (side)", "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10" },
+						{ "img": "/produtos/infos/formato.svg", "alt": "Shape", "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0" },
+						{ "img": "/produtos/infos/pelo.svg", "alt": "Coat", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20" },
+						{ "img": "/produtos/infos/fezes.svg", "alt": "Stools", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40" },
+						{ "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidants", "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10" },
+						{ "img": "/produtos/infos/intestinal.svg", "alt": "Digestive", "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0" },
+						{ "img": "/produtos/infos/corantes.svg", "alt": "No colorants", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20" },
+						{ "img": "/produtos/infos/cardio.svg", "alt": "Cardio", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40" },
+						{ "img": "/produtos/infos/articular.svg", "alt": "Joint", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150" }
+					]
+				},
+				"infosTabs": {
+					"composicao": {
+						"label": "Basic Composition",
+						"text": "Poultry offal meal, rice grain, pork rind meal, corn gluten meal 60 (non-GMO), rice bran, fruit and vegetable complex – 1.5% (sweet potato flour, pea flour, dehydrated carrot, dehydrated apple, dehydrated broccoli, dehydrated blueberry), inactivated dry brewer's yeast, dried beet pulp (2%), poultry oil, fish oil, glucosamine sulfate, chondroitin sulfate, sodium chloride, potassium chloride, hydrolyzed poultry liver, hydrolyzed poultry meat and liver, vitamins (vitamin A, vitamin D3, vitamin E, vitamin K3, vitamin B1, vitamin B2, vitamin B3, vitamin B5, vitamin B6, vitamin B9, vitamin B12, vitamin C, biotin, phosphatidylcholine), minerals (ferrous sulfate, copper sulfate, zinc sulfate, manganese sulfate, sodium selenite, calcium iodate, iron amino acid complex, copper amino acid complex, zinc amino acid complex, manganese amino acid complex, selenium proteinate), dl-methionine, l-lysine, l-carnitine, sodium hexametaphosphate (0.1%), yeast cell wall (prebiotic additive), zeolite (0.75%), yucca extract (0.05%), propionic acid, BHA and BHT."
+					},
+					"enriquecimento": {
+						"label": "Enrichment",
+						"text": "Vitamin A: 14,761 IU; Vitamin D3: 1,152 IU; Vitamin E: 142 IU; Vitamin K3: 1.43 mg; Vitamin B1: 4.7 mg; Vitamin B2: 12.2 mg; Vitamin B3: 32.6 mg; Vitamin B5: 26.6 mg; Vitamin B6: 3.5 mg; Vitamin B9: 0.57 mg; Vitamin B12: 74.2 mcg; Biotin: 0.31 mg; Vitamin C: 37 mg; Phosphatidylcholine: 9 mg; Iron: 88 mg; Copper: 11 mg; Zinc: 135 mg; Manganese: 8.3 mg; Selenium: 0.47 mg; Iodine: 1.5 mg. *Values per kg of product, expressed as minimums."
+					},
+					"garantia": {
+						"label": "Guaranty Levels",
+						"text": "Moisture (max.) 100.00 g/kg; Crude protein (min.) 290.00 g/kg; Ether extract (min.) 140.00 g/kg; Crude fiber (max.) 30.00 g/kg; Ash (max.) 75.00 g/kg; Calcium (max.) 14.00 g/kg; Calcium (min.) 10.00 g/kg; Phosphorus (min.) 9,000.00 mg/kg; Sodium (min.) 2,200.00 mg/kg; Sodium (max.) 3,000.00 mg/kg; Potassium (min.) 5,800.00 mg/kg; Lysine (min.) 8,800.00 mg/kg; Methionine (min.) 4,600.00 mg/kg; Omega 6 (min.) 26.00 g/kg; Omega 3 (min.) 2,900.00 mg/kg; EPA + DHA (min.) 900.00 mg/kg; Carnitine (min.) 200.00 mg/kg; Taurine (min.) 1,500.00 mg/kg; Chondroitin sulfate (min.) 62.00 mg/kg; Glucosamine sulfate (min.) 750.00 mg/kg; Mannanoligosaccharides (min.) 195.00 mg/kg; Beta-glucans (min.) 360.00 mg/kg; Vitamin E (min.) 142.00 IU/kg; Vitamin C (min.) 37.00 mg/kg; Organic selenium (min.) 0.14 mg/kg; Organic zinc (min.) 40.00 mg/kg; Metabolizable energy (min.) 3,960.00 kcal/kg."
+					}
+				}
+			}
+		]
+	}
 }

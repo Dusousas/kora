@@ -1,1 +1,193 @@
-{}
+{
+	"navbar": {
+		"home": "Inicio",
+		"guide": "Guía Pet",
+		"products": "Productos",
+		"kora": "Acerca de Kora",
+		"programa": "Programa de Satisfacción",
+		"contact": "Contacto"
+	},
+	"main": {
+		"title": "Ingredientes seleccionados para tu perro",
+		"description": "Nutrición real para una vida larga y saludable",
+		"buttonmain": "Conoce la línea completa"
+	},
+	"ctablog": {
+		"title": "Todo sobre el cuidado y bienestar de tu mascota.",
+		"buttonblog": "Visita nuestro blog"
+	},
+	"packdogs": {
+		"title": "Alimento completo",
+		"title1": "para cada etapa de tu perro",
+		"description": "La línea KORA Natural para Perros fue desarrollada a partir de ingredientes seleccionados. La combinación de proteínas, frutas y verduras ofrece nutrientes esenciales para brindar una vida más sana y feliz a tu fiel compañero.",
+		"buttondog": "Conoce"
+	},
+	"packcats": {
+		"title": "Sabor irresistible",
+		"title1": "que agrada hasta a los gatos más exigentes",
+		"description": "La línea KORA Natural para Gatos contribuye a que cada comida sea una experiencia de amor y alegría. La inclusión de ingredientes naturales ayuda a la salud y el bienestar de tu felino. La combinación de proteínas, frutas y verduras ofrece nutrientes esenciales para una nutrición real.",
+		"buttoncat": "Conoce"
+	},
+	"ctaabout": {
+		"title": "Sobre nosotros",
+		"description": "Kora nace del corazón. De la esencia.",
+		"description1": "De lo que realmente importa.",
+		"buttonabout": "Lee más"
+	},
+	"satisfaction": {
+		"title": "Programa de Satisfacción",
+		"subtitle": "110% de satisfacción o te devolvemos tu dinero",
+		"description": "Nuestros hijos de cuatro patas significan una gran responsabilidad, amor y desafío. Sabemos que tienen sus propios gustos y acertar su paladar puede ser un reto. No olvides ofrecer siempre la nutrición correcta considerando el tamaño, la etapa de vida y, en algunos casos, sus necesidades específicas. A través de una alimentación completa ayudas a ofrecer a tu mascota una mejor calidad de vida. Sigue las recomendaciones de tu veterinario, ofrece siempre agua fresca, paseos, cariño y mucho amor. Si tu mascota no se adapta a nuestro alimento, no te preocupes: tenemos la campaña Satisfacción 110% — podemos cambiar por otra variedad u ofrecer el reembolso del monto pagado +10%. Para ello, contacta con nuestro Servicio de Atención al Cliente y ten a mano:",
+		"items": [
+			"Factura de la tienda asociada donde compraste el producto",
+			"Tus datos personales",
+			"Conservar al menos el 75% del producto en el envase original siguiendo las indicaciones del embalaje",
+			"Producto dentro de la fecha de caducidad impresa en el embalaje"
+		],
+		"sacmail": "sac@noupetcare.com",
+		"sacphone": "(19) 99944-8710",
+		"important": "Importante: para el reembolso, el producto debe estar en el envase original, con el 75% del volumen.",
+		"buttonsatsfaction": "Consulta el reglamento"
+	},
+	"contact": {
+		"title": "Contáctanos",
+		"fullName": {
+			"label": "Nombre completo *",
+			"placeholder": "Nombre completo"
+		},
+		"email": {
+			"label": "Correo electrónico *",
+			"placeholder": "Email"
+		},
+		"phone": {
+			"label": "Whatsapp",
+			"placeholder": "(11) 99999-9999"
+		},
+		"about": {
+			"label": "Acerca de ti *",
+			"placeholder": "Selecciona una opción",
+			"options": [
+				"Padre/Madre de mascota",
+				"Veterinario",
+				"Comerciante",
+				"Criador",
+				"Proveedor",
+				"Adiestrador",
+				"ONG",
+				"Otro"
+			]
+		},
+		"message": {
+			"label": "Mensaje *",
+			"placeholder": "Escribe tu mensaje..."
+		},
+		"button": "Enviar",
+		"contact": {
+			"email": "sac@noupetcare.com",
+			"phone": "(19) 99944-8710"
+		}
+	},
+	"tobuy": {
+		"title": "Dónde comprar",
+		"buttonbuy": "Saber más",
+		"description": "¿Quieres saber cómo adquirir los productos <brand>KORA</brand>? Ponte en contacto con nuestro equipo de ventas para encontrar el alimento ideal para tu mascota. ¡Estamos listos para ayudar!",
+		"description1": "Visita nuestra página de contacto y háblanos."
+	},
+	"footer": {
+		"titlecontact": "Atención al consumidor:",
+		"emailcontact": "sac@noupetcare.com",
+		"titlesocial": "Síguenos, interactúa y participa en la comunidad",
+		"rights": "© 2025 <brand>KORA NATURAL</brand>. Una marca de NOU Pet Care."
+	},
+	"kora": {
+		"title": "Kora nace del corazón de la esencia. De lo que realmente importa.",
+		"descriptionStart": "En Kora Natural encontrarás nutrición real, ingredientes seleccionados y la promesa de una vida más sana y feliz para tu fiel compañero. Con nuestras mascotas celebramos aventuras, el contacto con la naturaleza, cada juego y muchas lamidas. Cada porción es una invitación a un gran viaje, ya sea una aventura al aire libre o un juego en la sala.",
+		"highlight": "En KORA NATURAL encontrarás un compromiso inquebrantable con la excelencia.",
+		"descriptionEnd": "Desde la selección de los mejores ingredientes hasta nuestra elección por envases 100% reciclables, estamos dedicados a elevar el estándar de la nutrición — con transparencia, calidad y profundo respeto por la naturaleza. Queremos dejar una huella positiva dondequiera que vayamos.",
+		"titlemissao": "Nuestra misión",
+		"descmissao": "Proporcionar nutrición super premium real con ingredientes seleccionados, para garantizar mayor calidad de vida y equilibrio para perros y gatos, mediante una fabricación responsable y el cuidado del medio ambiente.",
+		"titlesocial": "Compromiso inquebrantable con la excelencia",
+		"descsocial": "Al elegir Kora Natural, te unes a nosotros en un camino de responsabilidad y amor. Parte de cada venta se destina a iniciativas que apoyan el bienestar animal y proyectos sociales. Con cada porción tienes la oportunidad de difundir amor y hacer la diferencia.",
+		"titlevalores": "Valores",
+		"valores": [
+			"Autenticidad",
+			"Aventura",
+			"Cuidado",
+			"Compromiso",
+			"Libertad",
+			"Respeto por la naturaleza",
+			"Calidad"
+		],
+		"titlepack": "Nuestros envases son sostenibles",
+		"descpack1": "Nuestros envases son 100% reciclables y reflejan nuestro compromiso con el medio ambiente. Aunque no contamos con cremalleras sofisticadas o sellos especiales, optamos por materiales reutilizables que pueden ser destinados a la recogida selectiva.",
+		"descpack2": "Además, usamos los colores de forma inteligente para reducir el impacto ambiental y, en colaboración con el sello EU RECYCLE, compensamos cada envase producido apoyando cooperativas de reciclaje. Al elegir KORA NATURAL también apoyas a una comunidad dedicada a cuidar nuestro planeta.",
+		"descpack3": "¡Únete a nosotros en esta misión!"
+	},
+	"products": {
+		"title": "Kora nace del corazón. De la esencia. De lo que realmente importa",
+		"items": [
+			{
+				"slug": "caes-adultos",
+				"image": "/produtos/produto5.png",
+				"name1": "Perros adultos",
+				"name2": "Medianos y grandes",
+				"desc": "Pollo con guisante y arándano",
+				"kg": "15kg",
+				"h4slug": "A partir de 12 meses",
+				"psabor": "Sabor",
+				"pdisponivel": "Disponible en envases de 15KG",
+				"imagegrao": "/produtos/grao/kible5.png",
+				"theme": { "cardTop": "#BB5013", "cardBottom": "#EA5B1B", "chip": "#BB5013" },
+				"infosCards": {
+					"plateImage": "/produtos/infos/prato.png",
+					"sectionBg": "bg-VerdeP",
+					"speedSeconds": 40,
+					"mobileMarquee": [
+						{ "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
+						{ "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
+						{ "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
+						{ "img": "/produtos/infos/dental.svg", "alt": "Dental" },
+						{ "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
+						{ "img": "/produtos/infos/formato.svg", "alt": "Formato" },
+						{ "img": "/produtos/infos/pelo.svg", "alt": "Pelaje" },
+						{ "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
+						{ "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
+						{ "img": "/produtos/infos/intestinal.svg", "alt": "Digestivo" },
+						{ "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
+						{ "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
+						{ "img": "/produtos/infos/articular.svg", "alt": "Articular" }
+					],
+					"desktop": [
+						{ "img": "/produtos/infos/sodio.svg", "alt": "Sodio", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0" },
+						{ "img": "/produtos/infos/paladares.svg", "alt": "Paladares", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100" },
+						{ "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200" },
+						{ "img": "/produtos/infos/dental.svg", "alt": "Dental", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0" },
+						{ "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)", "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10" },
+						{ "img": "/produtos/infos/formato.svg", "alt": "Formato", "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0" },
+						{ "img": "/produtos/infos/pelo.svg", "alt": "Pelaje", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20" },
+						{ "img": "/produtos/infos/fezes.svg", "alt": "Heces", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40" },
+						{ "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes", "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10" },
+						{ "img": "/produtos/infos/intestinal.svg", "alt": "Digestivo", "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0" },
+						{ "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20" },
+						{ "img": "/produtos/infos/cardio.svg", "alt": "Cardio", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40" },
+						{ "img": "/produtos/infos/articular.svg", "alt": "Articular", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150" }
+					]
+				},
+				"infosTabs": {
+					"composicao": {
+						"label": "Composición básica",
+						"text": "Harina de vísceras de aves, grano de arroz, harina de corteza de cerdo, salvado de maíz 60 (no transgénico), salvado de arroz, complejo de frutas y verduras – 1,5% (harina de batata, harina de guisante, zanahoria deshidratada, manzana deshidratada, brócoli deshidratado, arándano deshidratado), levadura de cerveza inactivada deshidratada, pulpa de remolacha deshidratada (2%), aceite de aves, aceite de pescado, sulfato de glucosamina, sulfato de condroitina, cloruro de sodio, cloruro de potasio, hígado de ave hidrolizado, carne y hígado de ave hidrolizados, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, biotina, fosfatidilcolina), minerales (sulfato ferroso, sulfato de cobre, sulfato de zinc, sulfato de manganeso, selenito de sodio, yodato de calcio, complejo de hierro aminoácido, complejo de cobre aminoácido, complejo de zinc aminoácido, complejo de manganeso aminoácido, proteinato de selenio), dl-metionina, l-lisina, l-carnitina, hexametafosfato de sodio (0,1%), pared celular de levadura (aditivo prebiótico), zeolita (0,75%), extracto de yucca (0,05%), ácido propiónico, BHA y BHT."
+					},
+					"enriquecimento": {
+						"label": "Enriquecimiento",
+						"text": "Vitamina A: 14.761 UI; Vitamina D3: 1.152 UI; Vitamina E: 142 UI; Vitamina K3: 1,43 mg; Vitamina B1: 4,7 mg; Vitamina B2: 12,2 mg; Vitamina B3: 32,6 mg; Vitamina B5: 26,6 mg; Vitamina B6: 3,5 mg; Vitamina B9: 0,57 mg; Vitamina B12: 74,2 mcg; Biotina: 0,31 mg; Vitamina C: 37 mg; Fosfatidilcolina: 9 mg; Hierro: 88 mg; Cobre: 11 mg; Zinc: 135 mg; Manganeso: 8,3 mg; Selenio: 0,47 mg; Yodo: 1,5 mg. *Valores por kg de producto, expresados como mínimos."
+					},
+					"garantia": {
+						"label": "Niveles garantizados",
+						"text": "Humedad (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extracto etéreo (mín.) 140,00 g/kg; Fibra bruta (máx.) 30,00 g/kg; Ceniza (máx.) 75,00 g/kg; Calcio (máx.) 14,00 g/kg; Calcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sodio (mín.) 2.200,00 mg/kg; Sodio (máx.) 3.000,00 mg/kg; Potasio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Omega 6 (mín.) 26,00 g/kg; Omega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.500,00 mg/kg; Sulfato de condroitina (mín.) 62,00 mg/kg; Sulfato de glucosamina (mín.) 750,00 mg/kg; Mananoligosacáridos (mín.) 195,00 mg/kg; Beta-glucanos (mín.) 360,00 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selenio orgánico (mín.) 0,14 mg/kg; Zinc orgánico (mín.) 40,00 mg/kg; Energía metabolizable (mín.) 3.960,00 kcal/kg."
+					}
+				}
+			}
+		]
+	}
+}
