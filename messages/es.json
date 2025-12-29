@@ -1,193 +1,849 @@
 {
-	"navbar": {
-		"home": "Inicio",
-		"guide": "Guía Pet",
-		"products": "Productos",
-		"kora": "Acerca de Kora",
-		"programa": "Programa de Satisfacción",
-		"contact": "Contacto"
-	},
-	"main": {
-		"title": "Ingredientes seleccionados para tu perro",
-		"description": "Nutrición real para una vida larga y saludable",
-		"buttonmain": "Conoce la línea completa"
-	},
-	"ctablog": {
-		"title": "Todo sobre el cuidado y bienestar de tu mascota.",
-		"buttonblog": "Visita nuestro blog"
-	},
-	"packdogs": {
-		"title": "Alimento completo",
-		"title1": "para cada etapa de tu perro",
-		"description": "La línea KORA Natural para Perros fue desarrollada a partir de ingredientes seleccionados. La combinación de proteínas, frutas y verduras ofrece nutrientes esenciales para brindar una vida más sana y feliz a tu fiel compañero.",
-		"buttondog": "Conoce"
-	},
-	"packcats": {
-		"title": "Sabor irresistible",
-		"title1": "que agrada hasta a los gatos más exigentes",
-		"description": "La línea KORA Natural para Gatos contribuye a que cada comida sea una experiencia de amor y alegría. La inclusión de ingredientes naturales ayuda a la salud y el bienestar de tu felino. La combinación de proteínas, frutas y verduras ofrece nutrientes esenciales para una nutrición real.",
-		"buttoncat": "Conoce"
-	},
-	"ctaabout": {
-		"title": "Sobre nosotros",
-		"description": "Kora nace del corazón. De la esencia.",
-		"description1": "De lo que realmente importa.",
-		"buttonabout": "Lee más"
-	},
-	"satisfaction": {
-		"title": "Programa de Satisfacción",
-		"subtitle": "110% de satisfacción o te devolvemos tu dinero",
-		"description": "Nuestros hijos de cuatro patas significan una gran responsabilidad, amor y desafío. Sabemos que tienen sus propios gustos y acertar su paladar puede ser un reto. No olvides ofrecer siempre la nutrición correcta considerando el tamaño, la etapa de vida y, en algunos casos, sus necesidades específicas. A través de una alimentación completa ayudas a ofrecer a tu mascota una mejor calidad de vida. Sigue las recomendaciones de tu veterinario, ofrece siempre agua fresca, paseos, cariño y mucho amor. Si tu mascota no se adapta a nuestro alimento, no te preocupes: tenemos la campaña Satisfacción 110% — podemos cambiar por otra variedad u ofrecer el reembolso del monto pagado +10%. Para ello, contacta con nuestro Servicio de Atención al Cliente y ten a mano:",
-		"items": [
-			"Factura de la tienda asociada donde compraste el producto",
-			"Tus datos personales",
-			"Conservar al menos el 75% del producto en el envase original siguiendo las indicaciones del embalaje",
-			"Producto dentro de la fecha de caducidad impresa en el embalaje"
-		],
-		"sacmail": "sac@noupetcare.com",
-		"sacphone": "(19) 99944-8710",
-		"important": "Importante: para el reembolso, el producto debe estar en el envase original, con el 75% del volumen.",
-		"buttonsatsfaction": "Consulta el reglamento"
-	},
-	"contact": {
-		"title": "Contáctanos",
-		"fullName": {
-			"label": "Nombre completo *",
-			"placeholder": "Nombre completo"
-		},
-		"email": {
-			"label": "Correo electrónico *",
-			"placeholder": "Email"
-		},
-		"phone": {
-			"label": "Whatsapp",
-			"placeholder": "(11) 99999-9999"
-		},
-		"about": {
-			"label": "Acerca de ti *",
-			"placeholder": "Selecciona una opción",
-			"options": [
-				"Padre/Madre de mascota",
-				"Veterinario",
-				"Comerciante",
-				"Criador",
-				"Proveedor",
-				"Adiestrador",
-				"ONG",
-				"Otro"
-			]
-		},
-		"message": {
-			"label": "Mensaje *",
-			"placeholder": "Escribe tu mensaje..."
-		},
-		"button": "Enviar",
-		"contact": {
-			"email": "sac@noupetcare.com",
-			"phone": "(19) 99944-8710"
-		}
-	},
-	"tobuy": {
-		"title": "Dónde comprar",
-		"buttonbuy": "Saber más",
-		"description": "¿Quieres saber cómo adquirir los productos <brand>KORA</brand>? Ponte en contacto con nuestro equipo de ventas para encontrar el alimento ideal para tu mascota. ¡Estamos listos para ayudar!",
-		"description1": "Visita nuestra página de contacto y háblanos."
-	},
-	"footer": {
-		"titlecontact": "Atención al consumidor:",
-		"emailcontact": "sac@noupetcare.com",
-		"titlesocial": "Síguenos, interactúa y participa en la comunidad",
-		"rights": "© 2025 <brand>KORA NATURAL</brand>. Una marca de NOU Pet Care."
-	},
-	"kora": {
-		"title": "Kora nace del corazón de la esencia. De lo que realmente importa.",
-		"descriptionStart": "En Kora Natural encontrarás nutrición real, ingredientes seleccionados y la promesa de una vida más sana y feliz para tu fiel compañero. Con nuestras mascotas celebramos aventuras, el contacto con la naturaleza, cada juego y muchas lamidas. Cada porción es una invitación a un gran viaje, ya sea una aventura al aire libre o un juego en la sala.",
-		"highlight": "En KORA NATURAL encontrarás un compromiso inquebrantable con la excelencia.",
-		"descriptionEnd": "Desde la selección de los mejores ingredientes hasta nuestra elección por envases 100% reciclables, estamos dedicados a elevar el estándar de la nutrición — con transparencia, calidad y profundo respeto por la naturaleza. Queremos dejar una huella positiva dondequiera que vayamos.",
-		"titlemissao": "Nuestra misión",
-		"descmissao": "Proporcionar nutrición super premium real con ingredientes seleccionados, para garantizar mayor calidad de vida y equilibrio para perros y gatos, mediante una fabricación responsable y el cuidado del medio ambiente.",
-		"titlesocial": "Compromiso inquebrantable con la excelencia",
-		"descsocial": "Al elegir Kora Natural, te unes a nosotros en un camino de responsabilidad y amor. Parte de cada venta se destina a iniciativas que apoyan el bienestar animal y proyectos sociales. Con cada porción tienes la oportunidad de difundir amor y hacer la diferencia.",
-		"titlevalores": "Valores",
-		"valores": [
-			"Autenticidad",
-			"Aventura",
-			"Cuidado",
-			"Compromiso",
-			"Libertad",
-			"Respeto por la naturaleza",
-			"Calidad"
-		],
-		"titlepack": "Nuestros envases son sostenibles",
-		"descpack1": "Nuestros envases son 100% reciclables y reflejan nuestro compromiso con el medio ambiente. Aunque no contamos con cremalleras sofisticadas o sellos especiales, optamos por materiales reutilizables que pueden ser destinados a la recogida selectiva.",
-		"descpack2": "Además, usamos los colores de forma inteligente para reducir el impacto ambiental y, en colaboración con el sello EU RECYCLE, compensamos cada envase producido apoyando cooperativas de reciclaje. Al elegir KORA NATURAL también apoyas a una comunidad dedicada a cuidar nuestro planeta.",
-		"descpack3": "¡Únete a nosotros en esta misión!"
-	},
-	"products": {
-		"title": "Kora nace del corazón. De la esencia. De lo que realmente importa",
-		"items": [
-			{
-				"slug": "caes-adultos",
-				"image": "/produtos/produto5.png",
-				"name1": "Perros adultos",
-				"name2": "Medianos y grandes",
-				"desc": "Pollo con guisante y arándano",
-				"kg": "15kg",
-				"h4slug": "A partir de 12 meses",
-				"psabor": "Sabor",
-				"pdisponivel": "Disponible en envases de 15KG",
-				"imagegrao": "/produtos/grao/kible5.png",
-				"theme": { "cardTop": "#BB5013", "cardBottom": "#EA5B1B", "chip": "#BB5013" },
-				"infosCards": {
-					"plateImage": "/produtos/infos/prato.png",
-					"sectionBg": "bg-VerdeP",
-					"speedSeconds": 40,
-					"mobileMarquee": [
-						{ "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
-						{ "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
-						{ "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
-						{ "img": "/produtos/infos/dental.svg", "alt": "Dental" },
-						{ "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
-						{ "img": "/produtos/infos/formato.svg", "alt": "Formato" },
-						{ "img": "/produtos/infos/pelo.svg", "alt": "Pelaje" },
-						{ "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
-						{ "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
-						{ "img": "/produtos/infos/intestinal.svg", "alt": "Digestivo" },
-						{ "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
-						{ "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
-						{ "img": "/produtos/infos/articular.svg", "alt": "Articular" }
-					],
-					"desktop": [
-						{ "img": "/produtos/infos/sodio.svg", "alt": "Sodio", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0" },
-						{ "img": "/produtos/infos/paladares.svg", "alt": "Paladares", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100" },
-						{ "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200" },
-						{ "img": "/produtos/infos/dental.svg", "alt": "Dental", "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0" },
-						{ "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)", "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10" },
-						{ "img": "/produtos/infos/formato.svg", "alt": "Formato", "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0" },
-						{ "img": "/produtos/infos/pelo.svg", "alt": "Pelaje", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20" },
-						{ "img": "/produtos/infos/fezes.svg", "alt": "Heces", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40" },
-						{ "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes", "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10" },
-						{ "img": "/produtos/infos/intestinal.svg", "alt": "Digestivo", "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0" },
-						{ "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20" },
-						{ "img": "/produtos/infos/cardio.svg", "alt": "Cardio", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40" },
-						{ "img": "/produtos/infos/articular.svg", "alt": "Articular", "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150" }
-					]
-				},
-				"infosTabs": {
-					"composicao": {
-						"label": "Composición básica",
-						"text": "Harina de vísceras de aves, grano de arroz, harina de corteza de cerdo, salvado de maíz 60 (no transgénico), salvado de arroz, complejo de frutas y verduras – 1,5% (harina de batata, harina de guisante, zanahoria deshidratada, manzana deshidratada, brócoli deshidratado, arándano deshidratado), levadura de cerveza inactivada deshidratada, pulpa de remolacha deshidratada (2%), aceite de aves, aceite de pescado, sulfato de glucosamina, sulfato de condroitina, cloruro de sodio, cloruro de potasio, hígado de ave hidrolizado, carne y hígado de ave hidrolizados, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, biotina, fosfatidilcolina), minerales (sulfato ferroso, sulfato de cobre, sulfato de zinc, sulfato de manganeso, selenito de sodio, yodato de calcio, complejo de hierro aminoácido, complejo de cobre aminoácido, complejo de zinc aminoácido, complejo de manganeso aminoácido, proteinato de selenio), dl-metionina, l-lisina, l-carnitina, hexametafosfato de sodio (0,1%), pared celular de levadura (aditivo prebiótico), zeolita (0,75%), extracto de yucca (0,05%), ácido propiónico, BHA y BHT."
-					},
-					"enriquecimento": {
-						"label": "Enriquecimiento",
-						"text": "Vitamina A: 14.761 UI; Vitamina D3: 1.152 UI; Vitamina E: 142 UI; Vitamina K3: 1,43 mg; Vitamina B1: 4,7 mg; Vitamina B2: 12,2 mg; Vitamina B3: 32,6 mg; Vitamina B5: 26,6 mg; Vitamina B6: 3,5 mg; Vitamina B9: 0,57 mg; Vitamina B12: 74,2 mcg; Biotina: 0,31 mg; Vitamina C: 37 mg; Fosfatidilcolina: 9 mg; Hierro: 88 mg; Cobre: 11 mg; Zinc: 135 mg; Manganeso: 8,3 mg; Selenio: 0,47 mg; Yodo: 1,5 mg. *Valores por kg de producto, expresados como mínimos."
-					},
-					"garantia": {
-						"label": "Niveles garantizados",
-						"text": "Humedad (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extracto etéreo (mín.) 140,00 g/kg; Fibra bruta (máx.) 30,00 g/kg; Ceniza (máx.) 75,00 g/kg; Calcio (máx.) 14,00 g/kg; Calcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sodio (mín.) 2.200,00 mg/kg; Sodio (máx.) 3.000,00 mg/kg; Potasio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Omega 6 (mín.) 26,00 g/kg; Omega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.500,00 mg/kg; Sulfato de condroitina (mín.) 62,00 mg/kg; Sulfato de glucosamina (mín.) 750,00 mg/kg; Mananoligosacáridos (mín.) 195,00 mg/kg; Beta-glucanos (mín.) 360,00 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selenio orgánico (mín.) 0,14 mg/kg; Zinc orgánico (mín.) 40,00 mg/kg; Energía metabolizable (mín.) 3.960,00 kcal/kg."
-					}
-				}
-			}
-		]
-	}
+  "navbar": {
+    "home": "Inicio",
+    "guide": "Guía Pet",
+    "products": "Productos",
+    "kora": "La Kora",
+    "programa": "Programa de Satisfacción",
+    "contact": "Contacto"
+  },
+  "main": {
+    "title": "Ingredientes seleccionados para tu perro",
+    "description": "Nutrición real para una vida larga y saludable",
+    "buttonmain": "Conoce la línea completa"
+  },
+  "ctablog": {
+    "title": "Todo sobre cuidado y bienestar para tu mascota.",
+    "buttonblog": "Accede a nuestro blog"
+  },
+  "packdogs": {
+    "title": "Alimento completo",
+    "title1": "para cada etapa de tu perro",
+    "description": "La línea KORA Natural para Perros fue desarrollada a partir de ingredientes seleccionados. La combinación de proteínas, frutas y vegetales ofrece nutrientes esenciales para proporcionar una vida más saludable y feliz a tu compañero fiel.",
+    "buttondog": "Conocer"
+  },
+  "packcats": {
+    "title": "Sabor irresistible",
+    "title1": "que agrada incluso a los gatos más exigentes",
+    "description": "La línea KORA Natural para Gatos ayuda a que cada comida sea una experiencia de amor y alegría. La inclusión de ingredientes naturales contribuye a la salud y el bienestar de tu felino. La combinación de proteínas, frutas y vegetales ofrece nutrientes esenciales para una nutrición real.",
+    "buttoncat": "Conocer"
+  },
+  "ctaabout": {
+    "title": "Sobre nosotros",
+    "description": "Kora viene del corazón. De la esencia.",
+    "description1": "De lo que es verdaderamente importante.",
+    "buttonabout": "Leer más"
+  },
+  "satisfaction": {
+    "title": "Programa de Satisfacción",
+    "subtitle": "Satisfacción del 110% o te devolvemos tu dinero",
+    "description": "Nuestros hijos de cuatro patas significan una gran responsabilidad, amor y desafío. Sabemos que tienen sus propios gustos y acertar con su paladar es un reto. No olvides ofrecer siempre la nutrición correcta considerando el tamaño, la etapa de vida y, en algunos casos, sus necesidades específicas. Es a través de una alimentación completa que ayudas a brindarle a tu mascota una mejor calidad de vida. Sigue las recomendaciones de tu médico veterinario, ofrece siempre agua fresca, paseos, cariño y mucho amor. Si tu mascota no se adapta a nuestro alimento, no te preocupes: tenemos la campaña Satisfacción 110%: podemos cambiarlo por otra variedad u ofrecer el reembolso del valor pagado + 10%. Para ello, ponte en contacto con nuestro SAC y ten a mano:",
+    "items": [
+      "Factura de la tienda asociada donde adquiriste el producto",
+      "Tus datos personales",
+      "Conserva como mínimo el 75% del producto en el envase original siguiendo las orientaciones del propio envase",
+      "Producto dentro del plazo de validez impreso en el envase"
+    ],
+    "sacmail": "sac@noupetcare.com",
+    "sacphone": "(19) 99944-8710",
+    "important": "Importante: para el reembolso, el producto debe estar en el envase original, con el 75% del volumen.",
+    "buttonsatsfaction": "Consultar el reglamento"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "fullName": {
+      "label": "Nombre completo *",
+      "placeholder": "Nombre completo"
+    },
+    "email": {
+      "label": "Correo electrónico *",
+      "placeholder": "Correo electrónico"
+    },
+    "phone": {
+      "label": "WhatsApp",
+      "placeholder": "(11) 99999-9999"
+    },
+    "about": {
+      "label": "Sobre ti *",
+      "placeholder": "Selecciona una opción",
+      "options": [
+        "Padre o madre de mascota",
+        "Veterinario",
+        "Minorista",
+        "Criador",
+        "Proveedor",
+        "Adiestrador",
+        "ONG",
+        "Otro"
+      ]
+    },
+    "message": {
+      "label": "Mensaje *",
+      "placeholder": "Escribe tu mensaje..."
+    },
+    "button": "Enviar",
+    "contact": {
+      "email": "sac@noupetcare.com",
+      "phone": "(19) 99944-8710"
+    }
+  },
+  "tobuy": {
+    "title": "Dónde comprar",
+    "buttonbuy": "Saber más",
+    "description": "¿Quieres saber cómo adquirir los productos <brand>KORA</brand>? Ponte en contacto con nuestro equipo de ventas para encontrar el alimento ideal para tu mascota. ¡Estamos listos para ayudarte!",
+    "description1": "Accede a nuestra página de contacto y habla con nosotros."
+  },
+  "footer": {
+    "titlecontact": "Atención al consumidor:",
+    "emailcontact": "sac@noupetcare.com",
+    "titlesocial": "Síguenos, interactúa y participa en la comunidad",
+    "rights": "© 2025 <brand>KORA NATURAL</brand>. Una marca de NOU Pet Care."
+  },
+  "kora": {
+    "title": "Kora viene del corazón, de la esencia. De lo que es verdaderamente importante.",
+    "descriptionStart": "En Kora Natural encuentras nutrición real, ingredientes seleccionados y la promesa de una vida más saludable y feliz para tu compañero fiel. Con nuestras mascotas celebramos aventuras, el contacto con la naturaleza, cada juego y muchos lametones. Cada porción es una invitación a una gran jornada, ya sea una aventura al aire libre o un juego en la sala.",
+    "highlight": "En KORA NATURAL encuentras un compromiso inquebrantable con la excelencia.",
+    "descriptionEnd": "Desde la selección de los mejores ingredientes hasta nuestra elección de envases 100% reciclables, estamos dedicados a elevar el estándar de nutrición — con transparencia, calidad y profundo respeto por la naturaleza. Queremos dejar una huella positiva por donde pasamos.",
+    "titlemissao": "Nuestra misión",
+    "descmissao": "Proporcionar nutrición súper premium de verdad con ingredientes seleccionados, para garantizar más calidad de vida y equilibrio para perros y gatos, mediante una fabricación responsable y cuidado del medio ambiente.",
+    "titlesocial": "Compromiso inquebrantable con la excelencia",
+    "descsocial": "Al elegir Kora Natural, te unes a nosotros en una jornada de responsabilidad y amor. Parte de cada venta se destina a iniciativas que apoyan el bienestar animal y proyectos sociales. En cada porción tienes la oportunidad de difundir amor y marcar la diferencia.",
+    "titlevalores": "Valores",
+    "valores": [
+      "Autenticidad",
+      "Aventura",
+      "Cuidado",
+      "Compromiso",
+      "Libertad",
+      "Respeto por la naturaleza",
+      "Calidad"
+    ],
+    "titlepack": "Nuestros envases son sostenibles",
+    "descpack1": "Nuestros envases son 100% reciclables y reflejan nuestro compromiso con el medio ambiente. Aunque no contamos con cremalleras sofisticadas ni sellos especiales, optamos por materiales reutilizables que pueden enviarse a la recogida selectiva.",
+    "descpack2": "Además, utilizamos colores de forma inteligente para reducir el impacto ambiental y, en alianza con el sello EU RECICLO, compensamos cada envase producido apoyando a cooperativas de reciclaje. Al elegir KORA NATURAL, también apoyas a una comunidad dedicada a cuidar nuestro planeta.",
+    "descpack3": "¡Únete a nosotros en esta misión!"
+  },
+  "products": {
+    "title": "Kora viene del corazón. De la esencia. De lo que es verdaderamente importante",
+    "items": [
+      {
+        "slug": "caes-adultos",
+        "image": "/produtos/produto5.png",
+        "name1": "Perros Adultos",
+        "name2": "Tamaño Mediano y Grande",
+        "desc": "Pollo con Guisante y Arándano",
+        "kg": "15kg",
+        "h4slug": "A partir de 12 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponible en envases de 15KG",
+        "imagegrao": "/produtos/grao/kible5.png",
+        "theme": {
+          "cardTop": "#BB5013",
+          "cardBottom": "#EA5B1B",
+          "chip": "#BB5013"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
+          "speedSeconds": 40,
+          "mobileMarquee": [
+            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
+            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
+            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
+            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
+            { "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
+            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
+            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
+            { "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
+            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infos/intestinal.svg", "alt": "Intestinal" },
+            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
+            { "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
+            { "img": "/produtos/infos/articular.svg", "alt": "Articular" }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sodio (lado)",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Heces",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composición Básica",
+            "text": "Harina de vísceras de aves, grano de arroz, harina de torresmo, salvado de gluten de maíz 60 (no transgénico), salvado de arroz, complejo de frutas y vegetales – 1,5% (harina de batata dulce, harina de guisante, zanahoria deshidratada, manzana deshidratada, brócoli deshidratado, arándano deshidratado), levadura de cerveza inactivada deshidratada, pulpa deshidratada de remolacha (2%), aceite de aves, aceite de pescados, sulfato de glucosamina, sulfato de condroitina, cloruro de sodio, cloruro de potasio, hidrolizado de hígado de aves, hidrolizado de carne de aves e hígado de aves, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerales (sulfato ferroso, sulfato de cobre, sulfato de zinc, sulfato de manganeso, selenito de sodio, yodato de calcio, complejo de hierro aminoácido, complejo de cobre aminoácido, complejo de zinc aminoácido, complejo de manganeso aminoácido, proteinato de selenio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sodio (0,1%), pared celular de levadura (aditivo prebiótico), zeolita (0,75%), extracto de yucca (0,05%), ácido propiónico, BHA y BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimiento",
+            "text": "Vitamina A: 14.761 UI, Vitamina D3: 1.152 UI, Vitamina E: 142 UI, Vitamina K3: 1,43 mg, Vitamina B1: 4,7 mg, Vitamina B2: 12,2 mg, Vitamina B3: 32,6 mg, Vitamina B5: 26,6 mg, Vitamina B6: 3,5 mg, Vitamina B9: 0,57 mg, Vitamina B12: 74,2 mcg, Vitamina H: 0,31 mg, Vitamina C: 37 mg, Fosfatidilcolina: 9 mg, Hierro: 88 mg, Cobre: 11 mg, Zinc: 135 mg, Manganeso: 8,3 mg, Selenio: 0,47 mg, Yodo: 1,5 mg. *Valores por kg del producto, expresados en mínimos."
+          },
+          "garantia": {
+            "label": "Niveles de Garantía",
+            "text": "Humedad (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extracto etéreo (mín.) 140,00 g/kg; Materia fibrosa (máx.) 30,00 g/kg; Materia mineral (máx.) 75,00 g/kg; Calcio (máx.) 14,00 g/kg; Calcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sodio (mín.) 2.200,00 mg/kg; Sodio (máx.) 3.000,00 mg/kg; Potasio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Omega 6 (mín.) 26,00 g/kg; Omega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.500,00 mg/kg; Sulfato de condroitina (mín.) 62,00 mg/kg; Sulfato de glucosamina (mín.) 750,00 mg/kg; Mananoligosacáridos (mín.) 195,00 mg/kg; Beta-glucanos (mín.) 360,00 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selenio orgánico (mín.) 0,14 mg/kg; Zinc orgánico (mín.) 40,00 mg/kg; Energía metabolizable (mín.) 3.960,00 kcal/kg."
+          }
+        }
+      },
+      {
+        "slug": "caes-filhotes",
+        "image": "/produtos/produto1.png",
+        "name1": "Cachorros",
+        "name2": "Tamaño Mediano y Grande",
+        "desc": "Pollo con Zanahoria y Manzana",
+        "kg": "2,5kg e 15kg",
+        "h4slug": "Hasta 12 o 18 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponible en envases de 2,5kg y 15kg",
+        "imagegrao": "/produtos/grao/kible1.png",
+        "theme": {
+          "cardTop": "#F7A70A",
+          "cardBottom": "#C78909",
+          "chip": "#F7A70A"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
+          "speedSeconds": 40,
+          "mobileMarquee": [
+            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
+            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
+            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
+            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
+            { "img": "/produtos/infos/super-foods", "alt": "Sodio (lado)" },
+            { "img": "/produtos/infos/cognitiva.svg", "alt": "Cardio" },
+            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
+            { "img": "/produtos/infos/saudavel.svg", "alt": "Formato" },
+            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
+            { "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
+            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infos/intestinal.svg", "alt": "Intestinal" },
+            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
+            { "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
+            { "img": "/produtos/infos/articular.svg", "alt": "Articular" }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infos/super-foods",
+              "alt": "Sodio (lado)",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-22 left-10"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-48 left-10"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-100 left-10"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Heces",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composición Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado, mirtilo desidratado), levedura de cervejaria inativada desidratada, polpa desidratada de beterraba (2%), óleo de aves, óleo de peixes, sulfato de glicosamina, sulfato de condroitina, cloreto de sódio, cloreto de potássio, hidrolisado de fígado de aves, hidrolisado de carne de aves e fígado de aves, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganês aminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimiento",
+            "text": "Vitamina A: 14.761 UI, Vitamina D3: 1.152 UI, Vitamina E: 142 UI, Vitamina K3: 1,43 mg, Vitamina B1: 4,7 mg, Vitamina B2: 12,2 mg, Vitamina B3: 32,6 mg, Vitamina B5: 26,6 mg, Vitamina B6: 3,5 mg, Vitamina B9: 0,57 mg, Vitamina B12: 74,2 mcg, Vitamina H: 0,31 mg, Vitamina C: 37 mg, Fosfatidilcolina: 9 mg, Ferro: 88 mg, Cobre: 11 mg, Zinco: 135 mg, Manganês: 8,3 mg, Selênio: 0,47 mg, Iodo: 1,5 mg. *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Niveles de Garantía",
+            "text": "Umidade (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extrato etéreo (mín.) 140,00 g/kg; Matéria fibrosa (máx.) 30,00 g/kg; Matéria mineral (máx.) 75,00 g/kg; Cálcio (máx.) 14,00 g/kg; Cálcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sódio (mín.) 2.200,00 mg/kg; Sódio (máx.) 3.000,00 mg/kg; Potássio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Ômega 6 (mín.) 26,00 g/kg; Ômega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.500,00 mg/kg; Sulfato de condroitina (mín.) 62,00 mg/kg; Sulfato de glicosamina (mín.) 750,00 mg/kg; Mananoligossacarídeos (mín.) 195,00 mg/kg; Beta-glucanas (mín.) 360,00 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selênio orgânico (mín.) 0,14 mg/kg; Zinco orgânico (mín.) 40,00 mg/kg; Energia metabolizável (mín.) 3.960,00 kcal/kg."
+          }
+        }
+      },
+      {
+        "slug": "caes-adultos-porte-pequeno",
+        "image": "/produtos/produto6.png",
+        "name1": "Perros Adultos",
+        "name2": "Tamaño Pequeño",
+        "desc": "Pollo con Batata Dulce y Manzana",
+        "kg": "2,5kg e 15kg",
+        "h4slug": "Hasta 12 o 18 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponible en envases de 2,5kg y 15kg",
+        "imagegrao": "/produtos/grao/kible6.png",
+        "theme": {
+          "cardTop": "#006e42",
+          "cardBottom": "#108a3b",
+          "chip": "#006e42"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
+          "speedSeconds": 40,
+          "mobileMarquee": [
+            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
+            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
+            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
+            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
+            { "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
+            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
+            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
+            { "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
+            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infos/indoor.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sodio (lado)",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-80 left-0"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Heces",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
+            },
+            {
+              "img": "/produtos/infos/indoor.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-70 right-10"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composición Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado, mirtilo desidratado), levedura de cervejaria inativada desidratada, polpa desidratada de beterraba (2%), óleo de aves, óleo de peixes, cloreto de sódio, cloreto de potássio, hidrolisado de fígado de aves, hidrolisado de carne de aves e fígado de aves, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganês aminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimiento",
+            "text": "Vitamina A: 11.809 UI, Vitamina D3: 922 UI, Vitamina E: 113 UI, Vitamina K3: 1,1 mg, Vitamina B1: 3,8 mg, Vitamina B2: 9,8 mg, Vitamina B3: 26,1 mg, Vitamina B5: 21,3 mg, Vitamina B6: 2,7 mg, Vitamina B9: 0,45 mg, Vitamina B12: 59,4 mcg, Vitamina H: 0,24 mg, Vitamina C: 30 mg, Fosfatidilcolina: 7,23 mg, Ferro: 70,4 mg, Cobre: 8,7 mg, Zinco: 108 mg, Manganês : 6,7 mg, Selênio: 0,38 mg, Iodo: 1,2 mg. *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Niveles de Garantía",
+            "text": "Umidade (máx.) 100,00 g; proteína bruta (mín.) 260,00 g; extrato etéreo (mín.) 150,00 g; matéria fibrosa (máx.) 30,00 g; matéria mineral (máx.) 80,00 g; cálcio (mín.) 7.000,00 mg; cálcio (máx.) 14,00 g; fósforo (mín.) 6.000,00 mg; sódio (mín.) 1.200,00 mg; sódio (máx.) 3.000,00 mg; potássio (mín.) 6.000,00 mg. Aminoácidos: Lisina (mín.) 8.000,00 mg; metionina (mín.) 5.000,00 mg. Ácidos graxos essenciais: Ômega 6 (mín.) 25,00 g; Ômega 3 (mín.) 2.500,00 mg; EPA + DHA (mín.) 700,00 mg. Ingredientes e nutrientes funcionais: Carnitina (mín.) 100,00 mg; mananoligossacarídeos (mín.) 130,00 mg; beta-glucanas (mín.) 240,00 mg; Vitamina E (mín.) 113,00 UI; Vitamina C (mín.) 30,00 mg; selênio orgânico (mín.) 0,11 mg; zinco orgânico (mín.) 32,00 mg. Energia metabolizável (mín.) 3.990,00 kcal."
+          }
+        }
+      },
+      {
+        "slug": "caes-filhotes-porte-pequeno",
+        "image": "/produtos/produto4.png",
+        "name1": "Cachorros",
+        "name2": "Tamaño Pequeño",
+        "desc": "Pollo con Zanahoria y Arándano",
+        "kg": "2,5kg e 15kg",
+        "h4slug": "A partir de 12 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponible en envases de 2,5kg 15KG",
+        "imagegrao": "/produtos/grao/kible4.png",
+        "theme": {
+          "cardTop": "#a19c1d",
+          "cardBottom": "#817f21",
+          "chip": "#a19c1d"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-VerdeP",
+          "speedSeconds": 40,
+          "mobileMarquee": [
+            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
+            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
+            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
+            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
+            { "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
+            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
+            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
+            { "img": "/produtos/infos/indoor.svg", "alt": "Heces" },
+            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infos/intestinal.svg", "alt": "Intestinal" },
+            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
+            { "img": "/produtos/infos/cognitiva.svg", "alt": "Cardio" },
+            { "img": "/produtos/infos/saudavel.svg", "alt": "Articular" }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sodio (lado)",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 left-10"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 left-0"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 left-20"
+            },
+            {
+              "img": "/produtos/infos/indoor.svg",
+              "alt": "Heces",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-37 right-10"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-75 right-0"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-37 right-20"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 right-40"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-0 lg:right-105 xl:right-150"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composición Básica",
+            "text": "Farinha de vísceras de aves, grão de arroz, farinha de torresmo, farelo de glúten de milho 60 (não transgênico), farelo de arroz, complexo de frutas e vegetais – 1,5% (farinha de batata doce, farinha de ervilha, cenoura desidratada, maçã desidratada, brócolis desidratado, mirtilo proteinato de selênio), dl-metionina, l-lisina, l-carnitina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca de fígado de aves, hidrolisado de carne de aves e fígado de aves, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerais (sulfato de ferro, sulfato de cobre, sulfato de zinco, sulfato de manganês, selenito de sódio, iodato de cálcio, complexo ferro aminoácido, complexo cobre aminoácido, complexo zinco aminoácido, complexo manganês aminoácido, proteinato de selênio), dl-metionina, l-lisina, l-carnitina, hexametafosfato de sódio (0,1%), parede celular de levedura (aditivo prebiótico), zeólita (0,75%), extrato de yucca (0,05%), ácido propiônico, BHA e BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimiento",
+            "text": "Vitamina A: 14.761 UI, Vitamina D3: 1.152 UI, Vitamina E: 142 UI, Vitamina K3: 1,43 mg, Vitamina B1: 4,7 mg, Vitamina B2: 12,2 mg, Vitamina B3: 32,6 mg, Vitamina B5: 26,6 mg, Vitamina B6: 3,4 mg, Vitamina B9: 0,57 mg, Vitamina B12: 74,2 mcg, Vitamina H: 0,31 mg, Vitamina C: 37 mg, Fosfatidilcolina: 9 mg, Ferro: 88 mg, Cobre: 10,9 mg, Zinco: 135 mg, Manganês: 8,3 mg, Selênio: 0,47 mg, Iodo: 1,5 mg. *Valores por kg do produto, expressos em mínimos."
+          },
+          "garantia": {
+            "label": "Niveles de Garantía",
+            "text": "Umidade (máx.) 100,00 g/kg; Proteína bruta (mín.) 290,00 g/kg; Extrato etéreo (mín.) 160,00 g/kg; Matéria fibrosa (máx.) 30,00 g/kg; Matéria mineral (máx.) 75,00 g/kg; Cálcio (máx.) 14,00 g/kg; Cálcio (mín.) 10,00 g/kg; Fósforo (mín.) 9.000,00 mg/kg; Sódio (mín.) 2.200,00 mg/kg; Sódio (máx.) 3.000,00 mg/kg; Potássio (mín.) 5.800,00 mg/kg; Lisina (mín.) 8.800,00 mg/kg; Metionina (mín.) 4.600,00 mg/kg; Ômega 6 (mín.) 27,00 g/kg; Ômega 3 (mín.) 2.900,00 mg/kg; EPA + DHA (mín.) 900,00 mg/kg; Carnitina (mín.) 100,00 mg/kg; Mananoligossacarídeos (mín.) 195,00 mg/kg; Beta-glucanas (mín.) 360 mg/kg; Vitamina E (mín.) 142,00 UI/kg; Vitamina C (mín.) 37,00 mg/kg; Selênio orgânico (mín.) 0,14 mg/kg; Zinco orgânico (mín.) 40,00 mg/kg; Energia metabolizável (mín.) 4.060,00 kcal/kg."
+          }
+        }
+      },
+      {
+        "slug": "gatos-adultos-castrados",
+        "image": "/produtos/produto3.png",
+        "name1": "Gatos Adultos Esterilizados",
+        "desc": "Pollo con Zanahoria y Manzana",
+        "kg": "1,5kg e 7,5kg",
+        "h4slug": "Hasta 12 o 18 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponible en envases de 1,5kg y 7,5kg",
+        "imagegrao": "/produtos/grao/kible4.png",
+        "theme": {
+          "cardTop": "#AF3158",
+          "cardBottom": "#D43B6B",
+          "chip": "#AF3158"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-Azul",
+          "speedSeconds": 40,
+          "mobileMarquee": [
+            { "img": "/produtos/infosc/imunidade.svg", "alt": "Sodio" },
+            { "img": "/produtos/infosc/sodio.svg", "alt": "Paladares" },
+            { "img": "/produtos/infosc/dental.svg", "alt": "Inmunidad" },
+            { "img": "/produtos/infosc/unitario.svg", "alt": "Dental" },
+            { "img": "/produtos/infosc/antioxidante.svg", "alt": "Cardio" },
+            { "img": "/produtos/infosc/intestinal.svg", "alt": "Formato" },
+            { "img": "/produtos/infosc/corantes.svg", "alt": "Formato" },
+            { "img": "/produtos/infosc/indoor.svg", "alt": "Pelo" },
+            { "img": "/produtos/infosc/peso.svg", "alt": "Heces" },
+            { "img": "/produtos/infosc/epa.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infosc/paladares.svg", "alt": "Intestinal" },
+            { "img": "/produtos/infosc/pelo.svg", "alt": "Sin colorantes" },
+            { "img": "/produtos/infosc/superfoods.svg", "alt": "Cardio" },
+            { "img": "/produtos/infosc/formato.svg", "alt": "Articular" }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sodio",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares",
+              "className": "lg:w-[240px] xl:w-[350px] absolute -top-5 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Inmunidad",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-30 left-6"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-60 left-0"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-90 left-10"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-27 left-34"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Heces",
+              "className": "lg:w-[230px] xl:w-[350px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[320px] absolute top-37 right-6"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-70 right-0"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sin colorantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-40 right-20"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[300px] absolute bottom-0 right-30"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[350px] absolute -bottom-10 lg:right-105 xl:right-130"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composición Básica",
+            "text": "Harina de vísceras de aves, grano de arroz, harina de torresmo, salvado de gluten de maíz 60 (no transgénico), salvado de arroz, complejo de frutas y vegetales – 1,5% (harina de batata dulce, harina de guisante, zanahoria deshidratada, manzana deshidratada, brócoli deshidratado,prebiótico), zeolita (0,75%), extracto de yucca (0,05%), aditivo regulador de acidez (ácido cítrico, metionina,cloruros, aceite de pescados, cloruro de sodio, cloruro de potasio, hidrolizado de hígado de aves, hidrolizado de hígado de cerdos, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C,vitamina H, fosfatidilcolina), minerales (sulfato de hierro, sulfato de cobre, sulfato de zinc, sulfato de manganeso, selenito de sodio, yodato de calcio, complejo hierro aminoácido, complejo cobre aminoácido, complejo zinc aminoácido, complejo manganeso aminoácido, proteinato de selenio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sodio (0,1%), pared celular de levadura (aditivo prebiótico), zeolita (0,75%), extracto de yucca (0,05%), aditivo regulador de acidez (ácido cítrico, metionina,cloruro de amonio, sulfato de amonio, aceite de girasol refinado, cloruro de sodio), ácido propiónico, BHA y BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimiento",
+            "text": "Vitamina A: 12.112 UI, Vitamina D3: 480 UI, Vitamina E: 138 UI, Vitamina K3: 1,15 mg, Vitamina B1: 9 mg, Vitamina B2: 6 mg, Vitamina B3: 58,2 mg, Vitamina B5: 10 mg, Vitamina B6: 5,5 mg, Vitamina B9: 1,55 mg, Vitamina B12: 36 mcg, Vitamina H: 0,2 mg, Vitamina C: 50 mg, Fosfatidilcolina: 14,46 mg, Hierro (Hierro): 74,9 mg, Cobre: 8 mg, Zinc (Zinc): 130 mg, Manganeso (Manganeso): 8 mg, Selenio: 0,34 mg, Yodo: 1,7 mg. *Valores por kg del producto, expresados en mínimos."
+          },
+          "garantia": {
+            "label": "Niveles de Garantía",
+            "text": "Humedad (máx.) 100,00 g/kg; Proteína bruta (mín.) 380,00 g/kg; Extracto etéreo (mín.) 110,00 g/kg; Materia fibrosa (máx.) 40,00 g/kg; Materia mineral (máx.) 80,00 g/kg; Calcio (máx.) 14,00 g/kg; Calcio (mín.) 10,00 g/kg; Fósforo (mín.) 8.400,00 mg/kg; Sodio (mín.) 2.000,00 mg/kg; Sodio (máx.) 4.000,00 mg/kg; Potasio (mín.) 7.000,00 mg/kg; Lisina (mín.) 12,00 g/kg; Metionina (mín.) 6.000,00 mg/kg; Omega 6 (mín.) 20,00 g/kg; Omega 3 (mín.) 2.000,00 mg/kg; EPA + DHA (mín.) 270,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.300,00 mg/kg; Mananoligosacáridos (mín.) 195,00 mg/kg; Beta-glucanos (mín.) 360,00 mg/kg; Vitamina E (mín.) 138,00 UI/kg; Vitamina C (mín.) 50,00 mg/kg; Selenio orgánico (mín.) 0,10 mg/kg; Zinc orgánico (mín.) 39,00 mg/kg; Energía metabolizable (mín.) 3.815,00 kcal/kg"
+          }
+        }
+      },
+      {
+        "slug": "gatos-adultos",
+        "image": "/produtos/produto2.png",
+        "name1": "Gatos Adultos",
+        "desc": "Pollo con Batata Dulce y Arándano",
+        "kg": "1,5kg e 7,5kg",
+        "h4slug": "A partir de 12 meses",
+        "psabor": "Sabor",
+        "pdisponivel": "Disponible en envases de 1,5kg y 7,5kg",
+        "imagegrao": "/produtos/grao/kible2.png",
+        "theme": {
+          "cardTop": "#764377",
+          "cardBottom": "#8f5191",
+          "chip": "#764377"
+        },
+        "infosCards": {
+          "plateImage": "/produtos/infos/prato.png",
+          "sectionBg": "bg-Azul",
+          "speedSeconds": 40,
+          "mobileMarquee": [
+            { "img": "/produtos/infosc/imunidade.svg", "alt": "Sodio" },
+            { "img": "/produtos/infosc/sodio.svg", "alt": "Paladares" },
+            { "img": "/produtos/infosc/dental.svg", "alt": "Inmunidad" },
+            { "img": "/produtos/infosc/unitario.svg", "alt": "Dental" },
+            { "img": "/produtos/infosc/antioxidante.svg", "alt": "Cardio" },
+            { "img": "/produtos/infosc/intestinal.svg", "alt": "Formato" },
+            { "img": "/produtos/infosc/corantes.svg", "alt": "Formato" },
+            { "img": "/produtos/infosc/indoor.svg", "alt": "Pelo" },
+            { "img": "/produtos/infosc/peso.svg", "alt": "Heces" },
+            { "img": "/produtos/infosc/epa.svg", "alt": "Antioxidantes" },
+            { "img": "/produtos/infosc/paladares.svg", "alt": "Intestinal" },
+            { "img": "/produtos/infosc/pelo.svg", "alt": "Sin colorantes" },
+            { "img": "/produtos/infosc/superfoods.svg", "alt": "Cardio" },
+            { "img": "/produtos/infosc/formato.svg", "alt": "Articular" }
+          ],
+          "desktop": [
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Inmunidad",
+              "className": "lg:w-[230px] xl:w-[280px] absolute top-0 left-0"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Sodio",
+              "className": "lg:w-[240px] xl:w-[350px] absolute -top-5 lg:left-70 xl:left-100"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 lg:left-135 xl:left-200"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-0 right-0"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-30 left-6"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-60 left-0"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-90 left-10"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-27 left-34"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Heces",
+              "className": "lg:w-[230px] xl:w-[350px] absolute bottom-0 left-40"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes",
+              "className": "lg:w-[230px] xl:w-[320px] absolute top-37 right-6"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal",
+              "className": "lg:w-[230px] xl:w-[350px] absolute top-70 right-0"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sin colorantes",
+              "className": "lg:w-[230px] xl:w-[280px] absolute bottom-40 right-20"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio",
+              "className": "lg:w-[230px] xl:w-[300px] absolute bottom-0 right-30"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular",
+              "className": "lg:w-[230px] xl:w-[350px] absolute -bottom-10 lg:right-105 xl:right-130"
+            }
+          ]
+        },
+        "infosTabs": {
+          "composicao": {
+            "label": "Composición Básica",
+            "text": "Harina de vísceras de aves, grano de arroz, harina de torresmo, salvado de gluten de maíz 60 (no transgénico), salvado de arroz, complejo de frutas y vegetales – 1,5% (harina de batata dulce, harina de guisante, zanahoria deshidratada, manzana deshidratada, brócoli deshidratado, arándano deshidratado), levadura de cerveza inactivada deshidratada, pulpa deshidratada de remolacha (3%), aceite de aves, aceite de pescados, cloruro de sodio, cloruro de potasio, hidrolizado de hígado de aves, hidrolizado de hígado de cerdos, vitaminas (vitamina A, vitamina D3, vitamina E, vitamina K3, vitamina B1, vitamina B2, vitamina B3, vitamina B5, vitamina B6, vitamina B9, vitamina B12, vitamina C, vitamina H, fosfatidilcolina), minerales (sulfato de hierro, sulfato de cobre, sulfato de zinc, sulfato de manganeso, selenito de sodio, yodato de calcio, complejo hierro aminoácido, complejo cobre aminoácido, complejo zinc aminoácido, complejo manganeso aminoácido, proteinato de selenio), dl-metionina, l-lisina, l-carnitina, taurina, hexametafosfato de sodio (0,1%), pared celular de levadura (aditivo prebiótico), zeolita (0,75%), extracto de yucca (0,05%), aditivo regulador de acidez (ácido cítrico, metionina, cloruro de amonio, sulfato de amonio, aceite de girasol refinado, cloruro de sodio), ácido propiónico, BHA y BHT."
+          },
+          "enriquecimento": {
+            "label": "Enriquecimiento",
+            "text": "Vitamina A: 12.112 UI, Vitamina D3: 480 UI, Vitamina E: 138 UI, Vitamina K3: 1,15 mg, Vitamina B1: 9 mg, Vitamina B2: 6 mg, Vitamina B3: 58,2 mg, Vitamina B5: 10 mg, Vitamina B6: 5,5 mg, Vitamina B9: 1,55 mg, Vitamina B12: 36 mcg, Vitamina H: 0,2 mg, Vitamina C: 50 mg, Fosfatidilcolina: 14,46 mg, Hierro: 74,9 mg, Cobre: 8 mg, Zinc: 130 mg, Manganeso: 8 mg, Selenio: 0,34 mg, Yodo: 1,7 mg. *Valores por kg del producto, expresados en mínimos."
+          },
+          "garantia": {
+            "label": "Niveles de Garantía",
+            "text": "Humedad (máx.) 100,00 g/kg; Proteína bruta (mín.) 335,00 g/kg; Extracto etéreo (mín.) 150,00 g/kg; Materia fibrosa (máx.) 30,00 g/kg; Materia mineral (máx.) 80,00 g/kg; Calcio (máx.) 14,00 g/kg; Calcio (mín.) 10,00 g/kg; Fósforo (mín.) 8.400,00 mg/kg; Sodio (mín.) 2.000,00 mg/kg; Sodio (máx.) 4.000,00 mg/kg, Potasio (mín.) 7.000,00 mg/kg; Lisina (mín.) 12,00 g/kg; Metionina (mín.) 6.000,00 mg/kg; Omega 6 (mín.) 22,00 g/kg;  Omega 3 (mín.) 2.200,00 mg/kg; EPA + DHA (mín.) 270,00 mg/kg; Carnitina (mín.) 200,00 mg/kg; Taurina (mín.) 1.300,00 mg/kg; Mananoligosacáridos (mín.) 195,00 mg/kg; Beta-glucanos (mín.) 360,00 mg/kg; Vitamina E (mín.) 138,00 UI/kg; Vitamina C (mín.) 50,00 mg/kg; Selenio orgánico (mín.) 0,10 mg/kg; Zinc orgánico (mín.) 39,00 mg/kg; Energía metabolizable (mín.) 4.035,00 kcal/kg."
+          }
+        }
+      }
+    ]
+  }
 }
