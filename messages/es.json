@@ -147,19 +147,58 @@
           "sectionBg": "bg-VerdeP",
           "speedSeconds": 40,
           "mobileMarquee": [
-            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
-            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
-            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
-            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
-            { "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
-            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
-            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
-            { "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
-            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infos/intestinal.svg", "alt": "Intestinal" },
-            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
-            { "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
-            { "img": "/produtos/infos/articular.svg", "alt": "Articular" }
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sodio (lado)"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Heces"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular"
+            }
           ],
           "desktop": [
             {
@@ -265,21 +304,66 @@
           "sectionBg": "bg-VerdeP",
           "speedSeconds": 40,
           "mobileMarquee": [
-            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
-            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
-            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
-            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
-            { "img": "/produtos/infos/super-foods", "alt": "Sodio (lado)" },
-            { "img": "/produtos/infos/cognitiva.svg", "alt": "Cardio" },
-            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
-            { "img": "/produtos/infos/saudavel.svg", "alt": "Formato" },
-            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
-            { "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
-            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infos/intestinal.svg", "alt": "Intestinal" },
-            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
-            { "img": "/produtos/infos/cardio.svg", "alt": "Cardio" },
-            { "img": "/produtos/infos/articular.svg", "alt": "Articular" }
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infos/super-foods",
+              "alt": "Sodio (lado)"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Heces"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes"
+            },
+            {
+              "img": "/produtos/infos/cardio.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/articular.svg",
+              "alt": "Articular"
+            }
           ],
           "desktop": [
             {
@@ -395,17 +479,50 @@
           "sectionBg": "bg-VerdeP",
           "speedSeconds": 40,
           "mobileMarquee": [
-            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
-            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
-            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
-            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
-            { "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
-            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
-            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
-            { "img": "/produtos/infos/fezes.svg", "alt": "Heces" },
-            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infos/indoor.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" }
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sodio (lado)"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/fezes.svg",
+              "alt": "Heces"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/indoor.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes"
+            }
           ],
           "desktop": [
             {
@@ -501,19 +618,58 @@
           "sectionBg": "bg-VerdeP",
           "speedSeconds": 40,
           "mobileMarquee": [
-            { "img": "/produtos/infos/sodio.svg", "alt": "Sodio" },
-            { "img": "/produtos/infos/paladares.svg", "alt": "Paladares" },
-            { "img": "/produtos/infos/imunidade.svg", "alt": "Inmunidad" },
-            { "img": "/produtos/infos/dental.svg", "alt": "Dental" },
-            { "img": "/produtos/infos/super-foods.svg", "alt": "Sodio (lado)" },
-            { "img": "/produtos/infos/formato.svg", "alt": "Formato" },
-            { "img": "/produtos/infos/pelo.svg", "alt": "Pelo" },
-            { "img": "/produtos/infos/indoor.svg", "alt": "Heces" },
-            { "img": "/produtos/infos/antioxidantes.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infos/intestinal.svg", "alt": "Intestinal" },
-            { "img": "/produtos/infos/corantes.svg", "alt": "Sin colorantes" },
-            { "img": "/produtos/infos/cognitiva.svg", "alt": "Cardio" },
-            { "img": "/produtos/infos/saudavel.svg", "alt": "Articular" }
+            {
+              "img": "/produtos/infos/sodio.svg",
+              "alt": "Sodio"
+            },
+            {
+              "img": "/produtos/infos/paladares.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infos/imunidade.svg",
+              "alt": "Inmunidad"
+            },
+            {
+              "img": "/produtos/infos/dental.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infos/super-foods.svg",
+              "alt": "Sodio (lado)"
+            },
+            {
+              "img": "/produtos/infos/formato.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infos/pelo.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infos/indoor.svg",
+              "alt": "Heces"
+            },
+            {
+              "img": "/produtos/infos/antioxidantes.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infos/intestinal.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infos/corantes.svg",
+              "alt": "Sin colorantes"
+            },
+            {
+              "img": "/produtos/infos/cognitiva.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infos/saudavel.svg",
+              "alt": "Articular"
+            }
           ],
           "desktop": [
             {
@@ -618,20 +774,62 @@
           "sectionBg": "bg-Azul",
           "speedSeconds": 40,
           "mobileMarquee": [
-            { "img": "/produtos/infosc/imunidade.svg", "alt": "Sodio" },
-            { "img": "/produtos/infosc/sodio.svg", "alt": "Paladares" },
-            { "img": "/produtos/infosc/dental.svg", "alt": "Inmunidad" },
-            { "img": "/produtos/infosc/unitario.svg", "alt": "Dental" },
-            { "img": "/produtos/infosc/antioxidante.svg", "alt": "Cardio" },
-            { "img": "/produtos/infosc/intestinal.svg", "alt": "Formato" },
-            { "img": "/produtos/infosc/corantes.svg", "alt": "Formato" },
-            { "img": "/produtos/infosc/indoor.svg", "alt": "Pelo" },
-            { "img": "/produtos/infosc/peso.svg", "alt": "Heces" },
-            { "img": "/produtos/infosc/epa.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infosc/paladares.svg", "alt": "Intestinal" },
-            { "img": "/produtos/infosc/pelo.svg", "alt": "Sin colorantes" },
-            { "img": "/produtos/infosc/superfoods.svg", "alt": "Cardio" },
-            { "img": "/produtos/infosc/formato.svg", "alt": "Articular" }
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sodio"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Inmunidad"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Heces"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sin colorantes"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular"
+            }
           ],
           "desktop": [
             {
@@ -741,20 +939,62 @@
           "sectionBg": "bg-Azul",
           "speedSeconds": 40,
           "mobileMarquee": [
-            { "img": "/produtos/infosc/imunidade.svg", "alt": "Sodio" },
-            { "img": "/produtos/infosc/sodio.svg", "alt": "Paladares" },
-            { "img": "/produtos/infosc/dental.svg", "alt": "Inmunidad" },
-            { "img": "/produtos/infosc/unitario.svg", "alt": "Dental" },
-            { "img": "/produtos/infosc/antioxidante.svg", "alt": "Cardio" },
-            { "img": "/produtos/infosc/intestinal.svg", "alt": "Formato" },
-            { "img": "/produtos/infosc/corantes.svg", "alt": "Formato" },
-            { "img": "/produtos/infosc/indoor.svg", "alt": "Pelo" },
-            { "img": "/produtos/infosc/peso.svg", "alt": "Heces" },
-            { "img": "/produtos/infosc/epa.svg", "alt": "Antioxidantes" },
-            { "img": "/produtos/infosc/paladares.svg", "alt": "Intestinal" },
-            { "img": "/produtos/infosc/pelo.svg", "alt": "Sin colorantes" },
-            { "img": "/produtos/infosc/superfoods.svg", "alt": "Cardio" },
-            { "img": "/produtos/infosc/formato.svg", "alt": "Articular" }
+            {
+              "img": "/produtos/infosc/imunidade.svg",
+              "alt": "Sodio"
+            },
+            {
+              "img": "/produtos/infosc/sodio.svg",
+              "alt": "Paladares"
+            },
+            {
+              "img": "/produtos/infosc/dental.svg",
+              "alt": "Inmunidad"
+            },
+            {
+              "img": "/produtos/infosc/unitario.svg",
+              "alt": "Dental"
+            },
+            {
+              "img": "/produtos/infosc/antioxidante.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/intestinal.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/corantes.svg",
+              "alt": "Formato"
+            },
+            {
+              "img": "/produtos/infosc/indoor.svg",
+              "alt": "Pelo"
+            },
+            {
+              "img": "/produtos/infosc/peso.svg",
+              "alt": "Heces"
+            },
+            {
+              "img": "/produtos/infosc/epa.svg",
+              "alt": "Antioxidantes"
+            },
+            {
+              "img": "/produtos/infosc/paladares.svg",
+              "alt": "Intestinal"
+            },
+            {
+              "img": "/produtos/infosc/pelo.svg",
+              "alt": "Sin colorantes"
+            },
+            {
+              "img": "/produtos/infosc/superfoods.svg",
+              "alt": "Cardio"
+            },
+            {
+              "img": "/produtos/infosc/formato.svg",
+              "alt": "Articular"
+            }
           ],
           "desktop": [
             {
@@ -845,5 +1085,11 @@
         }
       }
     ]
+  },
+  "404": {
+    "title": "Page not found",
+    "subtitle": "Oops — we couldn’t find this page",
+    "titlehelp": "The link may be incorrect, or the page may have been removed.",
+    "titleback": "Back to home"
   }
 }

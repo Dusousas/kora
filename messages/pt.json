@@ -1090,5 +1090,11 @@
         }
       }
     ]
+  },
+   "404": {
+    "title": "Página não encontrada",
+    "subtitle": "Ops — não encontramos essa página",
+    "titlehelp": "Talvez o link esteja incorreto ou a página foi removida.",
+    "titleback": "Voltar ao inicio"
   }
 }
